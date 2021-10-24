@@ -3,8 +3,3 @@
 venv/
 __pycache__/
 .ipynb_checkpoints
-logs
-*.zip
-satellite_imagery/
-*.xlsx
-log_summaries/majordome.csv
