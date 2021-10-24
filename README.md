@@ -1,8 +1,6 @@
-# zadko-weather-project
+# zadko-weather-project: Random Forest Precipitation Nowcasting for the Zadko Observatory
 
-The code contained in this repository accompanies the thesis of Matvey Y. Solovyov submitted in partial fulfilment of the Bachelor of Science (Hons) course:
-
-## Random Forest Precipitation Nowcasting for the Zadko Observatory
+The code contained in this repository accompanies the thesis of Matvey Y. Solovyov submitted in partial fulfilment of the Bachelor of Science (Hons) course.
 
 We have developed a number of Random Forest models that we propose be used to improve the performance of the Zadko Observatory managed by OzGrav-UWA (henceforth reffered to as The Observatory).
 
