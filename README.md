@@ -6,11 +6,7 @@ We have developed a number of Random Forest models that we propose be used to im
 
 ## Contents
 
-The data used for computation are provided here as zip files using the Git LFS system. The Gingin Aero data is openly sourced from the Bureau of Meteorology's website, while the system logs of the Zadko control system, and the weather data, is sourced directly from the Observatory and is not available elsewhere.
-
-### Gingin Aero
-
-The Gingin Aero data is used to perform quality checks on the Observatory rain data. Analysis of this data is contained in the notebooks metar_merging and metar_processing.
+A 3-day subsample of the data used for computation is provided here (01.03.2015 - 03.03.2015).
 
 ### System logs
 
