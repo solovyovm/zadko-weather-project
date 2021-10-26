@@ -1,0 +1,2484 @@
+timestamp,desc
+2015-02-28 23:54:03.510,Decide to OPEN
+2015-02-28 23:54:03.526,OPEN message sent successfully
+2015-02-28 23:54:04.151,Roof OPENING
+2015-02-28 23:54:06.151,Roof OPENING
+2015-02-28 23:54:06.651,OPEN message sent successfully
+2015-02-28 23:54:06.651,Decide to OPEN
+2015-02-28 23:54:07.338,Roof OPENING
+2015-02-28 23:56:03.963,Roof OPENING
+2015-03-01 04:52:33.411,DAWN
+2015-03-01 05:36:26.210,DAY
+2015-03-01 05:36:26.350,CLOSE message sent successfully
+2015-03-01 05:36:26.475,Starts to close the roof (currently Opened).
+2015-03-01 06:29:34.001,Problem found: Very cloudy
+2015-03-01 06:29:34.017,Problem found: Very cloudy
+2015-03-01 06:29:41.767,No more problem
+2015-03-01 07:30:04.765,Problem found: Very cloudy
+2015-03-01 07:30:04.781,Problem found: Very cloudy
+2015-03-01 07:30:26.140,No more problem
+2015-03-01 07:31:27.311,Problem found: Very cloudy
+2015-03-01 07:31:27.326,Problem found: Very cloudy
+2015-03-01 07:31:28.842,No more problem
+2015-03-01 07:32:16.076,Problem found: Very cloudy
+2015-03-01 07:32:16.092,Problem found: Very cloudy
+2015-03-01 07:32:22.295,No more problem
+2015-03-01 07:32:24.811,Problem found: Very cloudy
+2015-03-01 07:32:24.826,Problem found: Very cloudy
+2015-03-01 07:32:29.373,No more problem
+2015-03-01 07:34:11.732,Problem found: Very cloudy
+2015-03-01 07:34:11.748,Problem found: Very cloudy
+2015-03-01 07:34:16.295,No more problem
+2015-03-01 07:34:36.311,Problem found: Very cloudy
+2015-03-01 07:34:36.326,Problem found: Very cloudy
+2015-03-01 07:34:56.060,No more problem
+2015-03-01 07:35:04.576,Problem found: Very cloudy
+2015-03-01 07:35:04.592,Problem found: Very cloudy
+2015-03-01 07:35:13.826,No more problem
+2015-03-01 07:35:20.342,Problem found: Very cloudy
+2015-03-01 07:35:20.357,Problem found: Very cloudy
+2015-03-01 07:35:23.389,No more problem
+2015-03-01 07:35:41.498,Problem found: Very cloudy
+2015-03-01 07:35:41.514,Problem found: Very cloudy
+2015-03-01 07:36:19.546,No more problem
+2015-03-01 07:36:20.062,Problem found: Very cloudy
+2015-03-01 07:36:20.077,Problem found: Very cloudy
+2015-03-01 07:36:27.671,No more problem
+2015-03-01 07:36:30.765,Problem found: Very cloudy
+2015-03-01 07:36:30.780,Problem found: Very cloudy
+2015-03-01 08:13:54.353,No more problem
+2015-03-01 08:13:56.868,Problem found: Very cloudy
+2015-03-01 08:13:56.884,Problem found: Very cloudy
+2015-03-01 08:14:01.524,No more problem
+2015-03-01 08:35:29.303,Problem found: Very cloudy
+2015-03-01 08:35:29.319,Problem found: Very cloudy
+2015-03-01 08:35:41.522,No more problem
+2015-03-01 08:35:59.039,Problem found: Very cloudy
+2015-03-01 08:35:59.055,Problem found: Very cloudy
+2015-03-01 08:36:03.602,No more problem
+2015-03-01 08:36:18.617,Problem found: Very cloudy
+2015-03-01 08:36:18.633,Problem found: Very cloudy
+2015-03-01 08:36:23.320,No more problem
+2015-03-01 08:36:27.336,Problem found: Very cloudy
+2015-03-01 08:36:27.352,Problem found: Very cloudy
+2015-03-01 08:36:36.586,No more problem
+2015-03-01 08:36:39.602,Problem found: Very cloudy
+2015-03-01 08:36:39.617,Problem found: Very cloudy
+2015-03-01 08:36:44.164,No more problem
+2015-03-01 08:36:46.680,Problem found: Very cloudy
+2015-03-01 08:36:46.695,Problem found: Very cloudy
+2015-03-01 08:36:48.211,No more problem
+2015-03-01 08:36:51.727,Problem found: Very cloudy
+2015-03-01 08:36:51.742,Problem found: Very cloudy
+2015-03-01 08:36:59.320,No more problem
+2015-03-01 08:37:00.836,Problem found: Very cloudy
+2015-03-01 08:37:00.852,Problem found: Very cloudy
+2015-03-01 08:37:46.664,No more problem
+2015-03-01 08:37:50.180,Problem found: Very cloudy
+2015-03-01 08:37:50.195,Problem found: Very cloudy
+2015-03-01 08:38:06.867,No more problem
+2015-03-01 08:38:09.383,Problem found: Very cloudy
+2015-03-01 08:38:09.398,Problem found: Very cloudy
+2015-03-01 08:40:38.806,No more problem
+2015-03-01 08:40:43.821,Problem found: Very cloudy
+2015-03-01 08:40:43.837,Problem found: Very cloudy
+2015-03-01 08:49:51.797,No more problem
+2015-03-01 08:49:58.812,Problem found: Very cloudy
+2015-03-01 08:49:58.828,Problem found: Very cloudy
+2015-03-01 08:50:04.890,No more problem
+2015-03-01 08:50:48.625,Problem found: Very cloudy
+2015-03-01 08:50:48.640,Problem found: Very cloudy
+2015-03-01 08:51:12.890,No more problem
+2015-03-01 08:56:33.265,Problem found: Very cloudy
+2015-03-01 08:56:33.280,Problem found: Very cloudy
+2015-03-01 08:56:49.952,No more problem
+2015-03-01 08:56:54.468,Problem found: Very cloudy
+2015-03-01 08:56:54.484,Problem found: Very cloudy
+2015-03-01 08:57:05.093,No more problem
+2015-03-01 08:57:10.109,Problem found: Very cloudy
+2015-03-01 08:57:10.124,Problem found: Very cloudy
+2015-03-01 09:25:33.994,No more problem
+2015-03-01 09:25:35.010,Problem found: Very cloudy
+2015-03-01 09:25:35.025,Problem found: Very cloudy
+2015-03-01 09:25:39.572,No more problem
+2015-03-01 09:25:47.666,Problem found: Very cloudy
+2015-03-01 09:25:47.682,Problem found: Very cloudy
+2015-03-01 09:25:56.775,No more problem
+2015-03-01 09:26:05.791,Problem found: Very cloudy
+2015-03-01 09:26:05.807,Problem found: Very cloudy
+2015-03-01 09:26:13.385,No more problem
+2015-03-01 09:26:36.635,Problem found: Very cloudy
+2015-03-01 09:26:36.650,Problem found: Very cloudy
+2015-03-01 09:26:41.197,No more problem
+2015-03-01 09:26:45.713,Problem found: Very cloudy
+2015-03-01 09:26:45.728,Problem found: Very cloudy
+2015-03-01 09:27:34.510,No more problem
+2015-03-01 09:27:38.541,Problem found: Very cloudy
+2015-03-01 09:27:38.541,Problem found: Very cloudy
+2015-03-01 09:27:56.730,No more problem
+2015-03-01 09:28:15.761,Problem found: Very cloudy
+2015-03-01 09:28:15.777,Problem found: Very cloudy
+2015-03-01 09:28:40.136,No more problem
+2015-03-01 09:28:42.651,Problem found: Very cloudy
+2015-03-01 09:28:42.667,Problem found: Very cloudy
+2015-03-01 09:29:32.963,No more problem
+2015-03-01 09:29:33.978,Problem found: Very cloudy
+2015-03-01 09:29:33.994,Problem found: Very cloudy
+2015-03-01 09:30:27.184,No more problem
+"2015-03-01 09:30:30.325,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:30:30.341,Problem found: Rain (meteo station)
+"2015-03-01 09:30:31.856,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:30:48.684,Problem found: Rain (meteo station)
+"2015-03-01 09:31:22.044,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:31:25.091,Problem found: Rain (meteo station)
+"2015-03-01 09:31:28.137,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:31:34.497,Problem found: Rain (meteo station)
+"2015-03-01 09:31:40.575,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:31:42.122,Problem found: Rain (meteo station)
+"2015-03-01 09:31:58.794,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:32:23.169,Problem found: Rain (meteo station)
+"2015-03-01 09:51:36.082,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:51:40.644,Problem found: Rain (meteo station)
+"2015-03-01 09:54:09.408,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:54:18.533,Problem found: Rain (meteo station)
+"2015-03-01 09:54:21.565,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:54:36.752,Problem found: Rain (meteo station)
+"2015-03-01 09:54:49.018,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:54:53.721,Problem found: Rain (meteo station)
+"2015-03-01 09:57:07.611,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:57:15.206,Problem found: Rain (meteo station)
+"2015-03-01 09:57:32.050,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:57:47.362,Problem found: Rain (meteo station)
+"2015-03-01 09:57:50.409,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:57:59.519,Problem found: Rain (meteo station)
+"2015-03-01 09:58:29.971,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:58:37.596,Problem found: Rain (meteo station)
+"2015-03-01 09:58:54.283,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:58:58.846,Problem found: Rain (meteo station)
+"2015-03-01 09:59:02.033,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:59:14.174,Problem found: Rain (meteo station)
+"2015-03-01 09:59:15.721,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 09:59:18.752,Problem found: Rain (meteo station)
+"2015-03-01 10:00:45.720,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:00:48.782,Problem found: Rain (meteo station)
+"2015-03-01 10:02:07.782,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:02:10.829,Problem found: Rain (meteo station)
+"2015-03-01 10:02:15.376,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:02:20.017,Problem found: Rain (meteo station)
+"2015-03-01 10:03:01.110,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:03:05.659,Problem found: Rain (meteo station)
+"2015-03-01 10:03:17.846,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:03:22.408,Problem found: Rain (meteo station)
+"2015-03-01 10:03:40.612,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:07:28.978,DAY
+"2015-03-01 10:07:29.196,""Problem found: Very cloudy, Rain (meteo station)"""
+"2015-03-01 10:07:29.212,""Problem found: Very cloudy, Rain (meteo station)"""
+"2015-03-01 10:07:36.109,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:07:39.156,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:08:07.966,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:08:15.562,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:08:29.203,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:08:32.249,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:08:53.451,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:09:01.045,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:10:54.640,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:11:00.702,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:11:37.045,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:12:45.220,Problem found: Rain (meteo station)
+"2015-03-01 10:12:58.878,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:13:01.925,Problem found: Rain (meteo station)
+"2015-03-01 10:13:15.582,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:13:23.176,Problem found: Rain (meteo station)
+"2015-03-01 10:13:27.739,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:13:30.786,Problem found: Rain (meteo station)
+"2015-03-01 10:13:55.069,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:14:11.758,Problem found: Rain (meteo station)
+"2015-03-01 10:14:25.416,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:14:43.651,Problem found: Rain (meteo station)
+"2015-03-01 10:14:48.214,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:15:09.450,Problem found: Rain (meteo station)
+"2015-03-01 10:15:12.497,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:15:17.060,Problem found: Rain (meteo station)
+"2015-03-01 10:15:48.906,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:16:02.564,Problem found: Rain (meteo station)
+"2015-03-01 10:16:07.127,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:16:10.174,Problem found: Rain (meteo station)
+"2015-03-01 10:16:25.347,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:16:46.583,Problem found: Rain (meteo station)
+"2015-03-01 10:17:41.154,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:17:51.780,Problem found: Rain (meteo station)
+"2015-03-01 10:18:03.921,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:18:05.453,Problem found: Rain (meteo station)
+"2015-03-01 10:18:10.016,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:18:13.063,Problem found: Rain (meteo station)
+"2015-03-01 10:18:16.110,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:18:17.641,Problem found: Rain (meteo station)
+"2015-03-01 10:18:29.779,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:18:34.358,Problem found: Rain (meteo station)
+"2015-03-01 10:18:37.405,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:19:07.734,Problem found: Rain (meteo station)
+"2015-03-01 10:19:13.812,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:19:54.753,Problem found: Rain (meteo station)
+"2015-03-01 10:19:59.316,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:20:06.910,Problem found: Rain (meteo station)
+"2015-03-01 10:20:08.441,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:20:19.067,Problem found: Rain (meteo station)
+"2015-03-01 10:20:20.599,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:20:40.319,Problem found: Rain (meteo station)
+"2015-03-01 10:20:43.366,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:21:07.634,Problem found: Rain (meteo station)
+"2015-03-01 10:21:16.744,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:21:47.074,Problem found: Rain (meteo station)
+"2015-03-01 10:21:50.121,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:22:02.263,Problem found: Rain (meteo station)
+"2015-03-01 10:22:09.857,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:22:11.389,Problem found: Rain (meteo station)
+"2015-03-01 10:22:26.562,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:22:43.407,Problem found: Rain (meteo station)
+"2015-03-01 10:25:52.247,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:26:02.872,Problem found: Rain (meteo station)
+"2015-03-01 10:26:27.136,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:26:30.277,Problem found: Rain (meteo station)
+"2015-03-01 10:26:42.559,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:26:54.717,Problem found: Rain (meteo station)
+"2015-03-01 10:27:28.215,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:27:31.263,Problem found: Rain (meteo station)
+"2015-03-01 10:27:43.489,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:27:49.568,Problem found: Rain (meteo station)
+"2015-03-01 10:27:52.615,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:01.725,Problem found: Rain (meteo station)
+"2015-03-01 10:28:09.319,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:14.038,Problem found: Rain (meteo station)
+"2015-03-01 10:28:17.086,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:23.164,Problem found: Rain (meteo station)
+"2015-03-01 10:28:33.784,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:35.315,Problem found: Rain (meteo station)
+"2015-03-01 10:28:45.972,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:47.504,Problem found: Rain (meteo station)
+"2015-03-01 10:28:53.582,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:28:58.145,Problem found: Rain (meteo station)
+"2015-03-01 10:28:59.676,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:29:02.864,Problem found: Rain (meteo station)
+"2015-03-01 10:29:18.037,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:29:22.616,Problem found: Rain (meteo station)
+"2015-03-01 10:29:24.147,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:29:27.191,Problem found: Rain (meteo station)
+"2015-03-01 10:29:34.785,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:29:36.316,Problem found: Rain (meteo station)
+"2015-03-01 10:35:17.554,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:35:19.085,Problem found: Rain (meteo station)
+"2015-03-01 10:35:35.768,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:35:48.206,Problem found: Rain (meteo station)
+"2015-03-01 10:35:54.285,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:35:55.816,Problem found: Rain (meteo station)
+"2015-03-01 10:36:00.379,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:36:03.426,Problem found: Rain (meteo station)
+"2015-03-01 10:36:06.473,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:36:11.036,Problem found: Rain (meteo station)
+2015-03-01 10:52:31.633,DAY
+2015-03-01 10:52:31.895,Problem found: Rain (meteo station)
+2015-03-01 10:52:31.910,Problem found: Rain (meteo station)
+"2015-03-01 10:52:38.743,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:13.600,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:25.740,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:42.428,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:46.977,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:50.023,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:53:53.070,""Problem found: Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:55:11.867,""Problem found: Very cloudy, Rain (meteo station), Telescope non initialized"""
+"2015-03-01 10:55:16.428,""Problem found: Rain (meteo station), Telescope non initialized"""
+2015-03-01 10:55:34.632,Problem found: Rain (meteo station)
+"2015-03-01 10:55:37.662,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 10:55:40.711,Problem found: Rain (meteo station)
+2015-03-01 10:55:49.820,No more problem
+2015-03-01 10:56:38.524,Problem found: Very cloudy
+2015-03-01 10:56:38.540,Problem found: Very cloudy
+2015-03-01 10:56:40.071,No more problem
+2015-03-01 10:56:43.572,Problem found: Very cloudy
+2015-03-01 10:56:43.587,Problem found: Very cloudy
+2015-03-01 10:56:52.697,No more problem
+2015-03-01 10:57:15.215,Problem found: Very cloudy
+2015-03-01 10:57:15.231,Problem found: Very cloudy
+2015-03-01 10:57:25.856,No more problem
+2015-03-01 10:57:29.372,Problem found: Very cloudy
+2015-03-01 10:57:29.388,Problem found: Very cloudy
+2015-03-01 10:57:33.951,No more problem
+2015-03-01 10:57:41.967,Problem found: Very cloudy
+2015-03-01 10:57:41.983,Problem found: Very cloudy
+2015-03-01 10:57:46.545,No more problem
+2015-03-01 10:57:54.124,Problem found: Very cloudy
+2015-03-01 10:57:54.140,Problem found: Very cloudy
+2015-03-01 10:58:03.250,No more problem
+2015-03-01 10:58:06.781,Problem found: Very cloudy
+2015-03-01 10:58:06.797,Problem found: Very cloudy
+2015-03-01 10:58:44.706,No more problem
+2015-03-01 10:58:49.222,Problem found: Very cloudy
+2015-03-01 10:58:49.238,Problem found: Very cloudy
+"2015-03-01 11:19:11.380,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:20:30.492,Problem found: Very cloudy
+"2015-03-01 11:24:23.630,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:28:12.112,Problem found: Rain (meteo station)
+"2015-03-01 11:28:27.285,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:28:31.848,Problem found: Rain (meteo station)
+"2015-03-01 11:28:34.895,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:28:51.643,Problem found: Rain (meteo station)
+"2015-03-01 11:29:00.894,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:29:17.583,Problem found: Rain (meteo station)
+"2015-03-01 11:29:26.693,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:29:49.582,Problem found: Rain (meteo station)
+"2015-03-01 11:29:51.254,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:29:57.332,Problem found: Rain (meteo station)
+"2015-03-01 11:30:01.895,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:30:14.037,Problem found: Rain (meteo station)
+"2015-03-01 11:30:15.568,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:30:18.615,Problem found: Rain (meteo station)
+"2015-03-01 11:30:27.725,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:30:38.345,Problem found: Rain (meteo station)
+"2015-03-01 11:32:12.864,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:32:18.943,Problem found: Rain (meteo station)
+"2015-03-01 11:33:16.832,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:33:19.879,Problem found: Rain (meteo station)
+2015-03-01 11:33:25.958,No more problem
+2015-03-01 11:33:38.971,Problem found: Very cloudy
+2015-03-01 11:33:38.986,Problem found: Very cloudy
+2015-03-01 11:34:09.629,No more problem
+2015-03-01 11:34:12.645,Problem found: Very cloudy
+2015-03-01 11:34:12.661,Problem found: Very cloudy
+2015-03-01 11:34:24.802,No more problem
+2015-03-01 11:34:26.818,Problem found: Very cloudy
+2015-03-01 11:34:26.834,Problem found: Very cloudy
+2015-03-01 11:34:34.422,No more problem
+2015-03-01 11:34:36.938,Problem found: Very cloudy
+2015-03-01 11:34:36.953,Problem found: Very cloudy
+2015-03-01 11:34:40.001,No more problem
+2015-03-01 11:35:03.643,Problem found: Very cloudy
+2015-03-01 11:35:03.659,Problem found: Very cloudy
+2015-03-01 11:35:32.470,No more problem
+2015-03-01 11:35:36.986,Problem found: Very cloudy
+2015-03-01 11:35:37.001,Problem found: Very cloudy
+2015-03-01 11:35:47.862,No more problem
+2015-03-01 11:35:49.377,Problem found: Very cloudy
+2015-03-01 11:35:49.393,Problem found: Very cloudy
+2015-03-01 11:35:56.987,No more problem
+2015-03-01 11:36:00.003,Problem found: Very cloudy
+2015-03-01 11:36:00.019,Problem found: Very cloudy
+2015-03-01 11:36:24.286,No more problem
+2015-03-01 11:36:26.302,Problem found: Very cloudy
+2015-03-01 11:36:26.318,Problem found: Very cloudy
+2015-03-01 11:36:37.081,No more problem
+2015-03-01 11:36:38.596,Problem found: Very cloudy
+2015-03-01 11:36:38.612,Problem found: Very cloudy
+2015-03-01 11:37:01.504,No more problem
+2015-03-01 11:37:19.021,Problem found: Very cloudy
+2015-03-01 11:37:19.037,Problem found: Very cloudy
+2015-03-01 11:37:28.288,No more problem
+2015-03-01 11:37:31.297,Problem found: Very cloudy
+2015-03-01 11:37:31.313,Problem found: Very cloudy
+2015-03-01 11:37:35.876,No more problem
+2015-03-01 11:37:46.971,Problem found: Very cloudy
+2015-03-01 11:37:46.986,Problem found: Very cloudy
+2015-03-01 11:38:29.831,No more problem
+2015-03-01 11:38:32.843,Problem found: Very cloudy
+2015-03-01 11:38:32.859,Problem found: Very cloudy
+2015-03-01 11:39:38.280,No more problem
+2015-03-01 11:39:43.296,Problem found: Very cloudy
+2015-03-01 11:39:43.311,Problem found: Very cloudy
+"2015-03-01 11:40:09.376,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:40:26.252,Problem found: Rain (meteo station)
+"2015-03-01 11:40:29.296,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:41:17.987,Problem found: Rain (meteo station)
+"2015-03-01 11:41:39.329,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:46:22.113,Problem found: Rain (meteo station)
+"2015-03-01 11:46:25.160,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:48:05.721,Problem found: Rain (meteo station)
+"2015-03-01 11:48:13.424,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:50:48.782,Problem found: Rain (meteo station)
+"2015-03-01 11:50:54.861,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:51:13.066,Problem found: Rain (meteo station)
+"2015-03-01 11:51:16.113,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:52:17.033,Problem found: Rain (meteo station)
+"2015-03-01 11:52:20.127,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:52:27.718,Problem found: Rain (meteo station)
+"2015-03-01 11:52:52.079,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:53:10.378,Problem found: Rain (meteo station)
+"2015-03-01 11:53:13.425,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:53:14.956,Problem found: Rain (meteo station)
+"2015-03-01 11:53:25.480,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:54:44.792,Problem found: Rain (meteo station)
+"2015-03-01 11:54:47.855,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:54:54.074,Problem found: Rain (meteo station)
+"2015-03-01 11:55:06.216,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:55:09.263,Problem found: Rain (meteo station)
+"2015-03-01 11:55:24.433,""Problem found: Very cloudy, Rain (meteo station)"""
+2015-03-01 11:55:30.511,Problem found: Very cloudy
+2015-03-01 11:58:25.449,No more problem
+2015-03-01 11:58:27.465,Problem found: Very cloudy
+2015-03-01 11:58:27.480,Problem found: Very cloudy
+2015-03-01 11:58:51.889,No more problem
+2015-03-01 11:59:00.514,Problem found: Very cloudy
+2015-03-01 11:59:00.530,Problem found: Very cloudy
+2015-03-01 11:59:02.061,Problem found: Very cloudy
+2015-03-01 11:59:05.108,No more problem
+2015-03-01 11:59:13.125,Problem found: Very cloudy
+2015-03-01 11:59:13.140,Problem found: Very cloudy
+2015-03-01 12:07:23.405,DAY
+2015-03-01 12:07:23.655,Problem found: Very cloudy
+2015-03-01 12:07:23.655,Problem found: Very cloudy
+"2015-03-01 12:07:30.656,""Problem found: Very cloudy, Telescope non initialized"""
+2015-03-01 12:10:23.328,Problem found: Very cloudy
+2015-03-01 12:20:28.875,No more problem
+2015-03-01 12:20:32.392,Problem found: Very cloudy
+2015-03-01 12:20:32.407,Problem found: Very cloudy
+2015-03-01 12:21:49.687,No more problem
+2015-03-01 12:21:51.203,Problem found: Very cloudy
+2015-03-01 12:21:51.218,Problem found: Very cloudy
+2015-03-01 12:22:24.705,No more problem
+2015-03-01 12:22:28.219,Problem found: Very cloudy
+2015-03-01 12:22:28.235,Problem found: Very cloudy
+2015-03-01 12:24:10.063,No more problem
+2015-03-01 12:24:12.579,Problem found: Very cloudy
+2015-03-01 12:24:12.594,Problem found: Very cloudy
+2015-03-01 12:27:22.798,No more problem
+2015-03-01 12:27:25.312,Problem found: Very cloudy
+2015-03-01 12:27:25.328,Problem found: Very cloudy
+2015-03-01 12:27:29.876,No more problem
+2015-03-01 12:27:32.392,Problem found: Very cloudy
+2015-03-01 12:27:32.408,Problem found: Very cloudy
+2015-03-01 12:29:19.220,No more problem
+2015-03-01 12:29:22.235,Problem found: Very cloudy
+2015-03-01 12:29:22.251,Problem found: Very cloudy
+2015-03-01 12:30:04.971,No more problem
+2015-03-01 12:30:07.486,Problem found: Very cloudy
+2015-03-01 12:30:07.501,Problem found: Very cloudy
+2015-03-01 12:30:12.065,No more problem
+2015-03-01 12:30:14.581,Problem found: Very cloudy
+2015-03-01 12:30:14.597,Problem found: Very cloudy
+2015-03-01 12:30:17.643,No more problem
+2015-03-01 12:30:20.159,Problem found: Very cloudy
+2015-03-01 12:30:20.174,Problem found: Very cloudy
+2015-03-01 12:52:05.250,No more problem
+2015-03-01 12:52:07.766,Problem found: Very cloudy
+2015-03-01 12:52:07.782,Problem found: Very cloudy
+2015-03-01 12:54:01.828,No more problem
+2015-03-01 12:54:04.345,Problem found: Very cloudy
+2015-03-01 12:54:04.361,Problem found: Very cloudy
+2015-03-01 12:54:07.408,No more problem
+2015-03-01 12:54:09.922,Problem found: Very cloudy
+2015-03-01 12:54:09.938,Problem found: Very cloudy
+2015-03-01 12:55:33.657,No more problem
+2015-03-01 12:55:35.172,Problem found: Very cloudy
+2015-03-01 12:55:35.187,Problem found: Very cloudy
+2015-03-01 12:55:58.111,No more problem
+2015-03-01 12:55:59.627,Problem found: Very cloudy
+2015-03-01 12:55:59.643,Problem found: Very cloudy
+2015-03-01 12:56:11.781,No more problem
+2015-03-01 12:56:18.798,Problem found: Very cloudy
+2015-03-01 12:56:18.814,Problem found: Very cloudy
+2015-03-01 12:57:39.486,No more problem
+2015-03-01 12:57:48.000,Problem found: Very cloudy
+2015-03-01 12:57:48.015,Problem found: Very cloudy
+2015-03-01 12:57:54.095,No more problem
+2015-03-01 12:58:05.109,Problem found: Very cloudy
+2015-03-01 12:58:05.125,Problem found: Very cloudy
+2015-03-01 12:58:09.731,No more problem
+2015-03-01 12:58:15.824,Problem found: Very cloudy
+2015-03-01 12:58:15.840,Problem found: Very cloudy
+2015-03-01 12:58:21.903,No more problem
+2015-03-01 12:58:27.918,Problem found: Very cloudy
+2015-03-01 12:58:27.934,Problem found: Very cloudy
+2015-03-01 12:58:29.465,No more problem
+2015-03-01 12:58:32.980,Problem found: Very cloudy
+2015-03-01 12:58:32.996,Problem found: Very cloudy
+2015-03-01 13:05:08.512,No more problem
+2015-03-01 13:05:11.528,Problem found: Very cloudy
+2015-03-01 13:05:11.543,Problem found: Very cloudy
+2015-03-01 13:06:42.604,No more problem
+2015-03-01 13:06:46.122,Problem found: Very cloudy
+2015-03-01 13:06:46.137,Problem found: Very cloudy
+2015-03-01 13:06:55.245,No more problem
+2015-03-01 13:06:58.261,Problem found: Very cloudy
+2015-03-01 13:06:58.276,Problem found: Very cloudy
+2015-03-01 13:07:02.841,No more problem
+2015-03-01 13:07:03.356,Problem found: Very cloudy
+2015-03-01 13:07:03.372,Problem found: Very cloudy
+2015-03-01 13:07:13.995,No more problem
+2015-03-01 13:07:19.512,Problem found: Very cloudy
+2015-03-01 13:07:19.527,Problem found: Very cloudy
+2015-03-01 13:07:27.120,No more problem
+2015-03-01 13:07:40.620,Problem found: Very cloudy
+2015-03-01 13:07:40.636,Problem found: Very cloudy
+2015-03-01 13:10:25.839,No more problem
+2015-03-01 13:10:29.355,Problem found: Very cloudy
+2015-03-01 13:10:29.370,Problem found: Very cloudy
+2015-03-01 13:10:36.965,No more problem
+2015-03-01 13:10:53.981,Problem found: Very cloudy
+2015-03-01 13:10:53.996,Problem found: Very cloudy
+2015-03-01 13:11:25.832,No more problem
+2015-03-01 13:11:26.839,Problem found: Very cloudy
+2015-03-01 13:11:26.855,Problem found: Very cloudy
+2015-03-01 13:12:16.886,No more problem
+2015-03-01 13:12:19.402,Problem found: Very cloudy
+2015-03-01 13:12:19.417,Problem found: Very cloudy
+2015-03-01 13:14:28.198,No more problem
+2015-03-01 13:14:31.214,Problem found: Very cloudy
+2015-03-01 13:14:31.230,Problem found: Very cloudy
+2015-03-01 13:18:12.481,No more problem
+2015-03-01 13:18:13.495,Problem found: Very cloudy
+2015-03-01 13:18:13.511,Problem found: Very cloudy
+2015-03-01 13:18:33.215,No more problem
+2015-03-01 13:18:36.229,Problem found: Very cloudy
+2015-03-01 13:18:36.245,Problem found: Very cloudy
+2015-03-01 13:18:52.933,No more problem
+2015-03-01 13:19:00.949,Problem found: Very cloudy
+2015-03-01 13:19:00.965,Problem found: Very cloudy
+2015-03-01 13:19:19.167,No more problem
+2015-03-01 13:19:21.683,Problem found: Very cloudy
+2015-03-01 13:19:21.699,Problem found: Very cloudy
+2015-03-01 13:19:39.901,No more problem
+2015-03-01 13:19:46.418,Problem found: Very cloudy
+2015-03-01 13:19:46.434,Problem found: Very cloudy
+2015-03-01 13:19:50.996,No more problem
+2015-03-01 13:20:02.512,Problem found: Very cloudy
+2015-03-01 13:20:02.528,Problem found: Very cloudy
+2015-03-01 13:20:38.871,No more problem
+2015-03-01 13:20:40.870,Problem found: Very cloudy
+2015-03-01 13:20:40.886,Problem found: Very cloudy
+2015-03-01 13:21:55.137,No more problem
+2015-03-01 13:22:01.167,Problem found: Very cloudy
+2015-03-01 13:22:01.183,Problem found: Very cloudy
+2015-03-01 13:22:05.745,No more problem
+2015-03-01 13:22:13.262,Problem found: Very cloudy
+2015-03-01 13:22:13.278,Problem found: Very cloudy
+2015-03-01 13:22:19.355,No more problem
+2015-03-01 13:22:25.872,Problem found: Very cloudy
+2015-03-01 13:22:25.887,Problem found: Very cloudy
+2015-03-01 13:22:28.934,No more problem
+2015-03-01 13:22:30.949,Problem found: Very cloudy
+2015-03-01 13:22:30.965,Problem found: Very cloudy
+2015-03-01 13:22:35.526,No more problem
+2015-03-01 13:22:43.044,Problem found: Very cloudy
+2015-03-01 13:22:43.059,Problem found: Very cloudy
+2015-03-01 13:23:08.839,No more problem
+2015-03-01 13:23:11.370,Problem found: Very cloudy
+2015-03-01 13:23:11.385,Problem found: Very cloudy
+2015-03-01 13:23:14.432,No more problem
+2015-03-01 13:23:42.433,Problem found: Very cloudy
+2015-03-01 13:23:42.448,Problem found: Very cloudy
+2015-03-01 13:24:41.543,No more problem
+2015-03-01 13:24:54.544,Problem found: Very cloudy
+2015-03-01 13:24:54.559,Problem found: Very cloudy
+2015-03-01 13:25:05.183,No more problem
+2015-03-01 13:25:50.215,Problem found: Very cloudy
+2015-03-01 13:25:50.230,Problem found: Very cloudy
+2015-03-01 13:26:11.465,No more problem
+2015-03-01 13:26:47.965,Problem found: Very cloudy
+2015-03-01 13:26:47.981,Problem found: Very cloudy
+2015-03-01 13:27:04.653,No more problem
+2015-03-01 13:27:19.700,Problem found: Very cloudy
+2015-03-01 13:27:19.715,Problem found: Very cloudy
+2015-03-01 13:28:05.200,No more problem
+2015-03-01 13:28:08.715,Problem found: Very cloudy
+2015-03-01 13:28:08.731,Problem found: Very cloudy
+2015-03-01 13:28:19.354,No more problem
+2015-03-01 13:28:22.887,Problem found: Very cloudy
+2015-03-01 13:28:22.903,Problem found: Very cloudy
+2015-03-01 13:28:30.496,No more problem
+2015-03-01 13:28:35.011,Problem found: Very cloudy
+2015-03-01 13:28:35.026,Problem found: Very cloudy
+2015-03-01 13:29:48.761,No more problem
+2015-03-01 13:30:09.777,Problem found: Very cloudy
+2015-03-01 13:30:09.792,Problem found: Very cloudy
+2015-03-01 13:30:14.341,No more problem
+2015-03-01 13:30:16.857,Problem found: Very cloudy
+2015-03-01 13:30:16.872,Problem found: Very cloudy
+2015-03-01 13:30:35.075,No more problem
+2015-03-01 13:30:38.074,Problem found: Very cloudy
+2015-03-01 13:30:38.089,Problem found: Very cloudy
+2015-03-01 13:31:11.434,No more problem
+2015-03-01 13:31:14.448,Problem found: Very cloudy
+2015-03-01 13:31:14.464,Problem found: Very cloudy
+2015-03-01 13:31:35.669,No more problem
+2015-03-01 13:31:42.684,Problem found: Very cloudy
+2015-03-01 13:31:42.700,Problem found: Very cloudy
+2015-03-01 13:33:41.323,No more problem
+2015-03-01 13:33:44.841,Problem found: Very cloudy
+2015-03-01 13:33:44.856,Problem found: Very cloudy
+2015-03-01 13:35:24.856,No more problem
+2015-03-01 13:35:35.370,Problem found: Very cloudy
+2015-03-01 13:35:35.385,Problem found: Very cloudy
+2015-03-01 13:36:38.261,No more problem
+2015-03-01 13:36:50.761,Problem found: Very cloudy
+2015-03-01 13:36:50.777,Problem found: Very cloudy
+2015-03-01 13:36:55.339,No more problem
+2015-03-01 13:36:57.854,Problem found: Very cloudy
+2015-03-01 13:36:57.870,Problem found: Very cloudy
+2015-03-01 13:37:16.044,No more problem
+2015-03-01 13:37:22.059,Problem found: Very cloudy
+2015-03-01 13:37:22.074,Problem found: Very cloudy
+2015-03-01 13:37:23.606,No more problem
+2015-03-01 13:37:27.105,Problem found: Very cloudy
+2015-03-01 13:37:27.120,Problem found: Very cloudy
+2015-03-01 13:37:34.700,No more problem
+2015-03-01 13:37:39.215,Problem found: Very cloudy
+2015-03-01 13:37:39.231,Problem found: Very cloudy
+2015-03-01 13:38:03.667,No more problem
+2015-03-01 13:38:07.184,Problem found: Very cloudy
+2015-03-01 13:38:07.200,Problem found: Very cloudy
+2015-03-01 13:38:33.042,No more problem
+2015-03-01 13:38:35.058,Problem found: Very cloudy
+2015-03-01 13:38:35.074,Problem found: Very cloudy
+2015-03-01 13:39:32.793,No more problem
+2015-03-01 13:39:36.284,Problem found: Very cloudy
+2015-03-01 13:39:36.300,Problem found: Very cloudy
+2015-03-01 13:39:45.398,No more problem
+2015-03-01 13:39:48.412,Problem found: Very cloudy
+2015-03-01 13:39:48.428,Problem found: Very cloudy
+2015-03-01 13:40:22.084,No more problem
+2015-03-01 13:40:25.100,Problem found: Very cloudy
+2015-03-01 13:40:25.115,Problem found: Very cloudy
+2015-03-01 13:40:29.677,No more problem
+2015-03-01 13:40:42.755,Problem found: Very cloudy
+2015-03-01 13:40:42.771,Problem found: Very cloudy
+2015-03-01 13:41:02.444,No more problem
+2015-03-01 13:41:05.070,Problem found: Very cloudy
+2015-03-01 13:41:05.085,Problem found: Very cloudy
+2015-03-01 13:41:35.554,No more problem
+2015-03-01 13:41:38.194,Problem found: Very cloudy
+2015-03-01 13:41:38.210,Problem found: Very cloudy
+2015-03-01 13:41:57.912,No more problem
+2015-03-01 13:41:59.428,Problem found: Very cloudy
+2015-03-01 13:41:59.444,Problem found: Very cloudy
+2015-03-01 13:42:16.256,No more problem
+2015-03-01 13:42:42.772,Problem found: Very cloudy
+2015-03-01 13:42:42.788,Problem found: Very cloudy
+2015-03-01 13:43:25.412,No more problem
+2015-03-01 13:43:28.429,Problem found: Very cloudy
+2015-03-01 13:43:28.444,Problem found: Very cloudy
+2015-03-01 13:43:33.006,No more problem
+2015-03-01 13:43:37.022,Problem found: Very cloudy
+2015-03-01 13:43:37.038,Problem found: Very cloudy
+2015-03-01 13:44:09.099,No more problem
+2015-03-01 13:44:12.115,Problem found: Very cloudy
+2015-03-01 13:44:12.131,Problem found: Very cloudy
+2015-03-01 13:44:24.272,No more problem
+2015-03-01 13:44:25.787,Problem found: Very cloudy
+2015-03-01 13:44:25.803,Problem found: Very cloudy
+2015-03-01 13:44:36.413,No more problem
+2015-03-01 13:44:41.412,Problem found: Very cloudy
+2015-03-01 13:44:41.428,Problem found: Very cloudy
+2015-03-01 13:44:53.694,No more problem
+2015-03-01 13:45:12.835,Problem found: Very cloudy
+2015-03-01 13:45:12.850,Problem found: Very cloudy
+2015-03-01 13:45:24.960,No more problem
+2015-03-01 13:45:26.975,Problem found: Very cloudy
+2015-03-01 13:45:26.991,Problem found: Very cloudy
+2015-03-01 13:45:56.023,No more problem
+2015-03-01 13:46:02.037,Problem found: Very cloudy
+2015-03-01 13:46:02.053,Problem found: Very cloudy
+2015-03-01 13:46:35.662,No more problem
+2015-03-01 13:46:43.664,Problem found: Very cloudy
+2015-03-01 13:46:43.679,Problem found: Very cloudy
+2015-03-01 13:46:48.241,No more problem
+2015-03-01 13:46:50.740,Problem found: Very cloudy
+2015-03-01 13:46:50.756,Problem found: Very cloudy
+2015-03-01 13:46:52.287,No more problem
+2015-03-01 13:48:07.429,Problem found: Very cloudy
+2015-03-01 13:48:07.444,Problem found: Very cloudy
+2015-03-01 13:48:08.976,No more problem
+2015-03-01 13:48:12.631,Problem found: Very cloudy
+2015-03-01 13:48:12.647,Problem found: Very cloudy
+2015-03-01 13:48:36.882,No more problem
+2015-03-01 13:48:43.897,Problem found: Very cloudy
+2015-03-01 13:48:43.913,Problem found: Very cloudy
+2015-03-01 13:49:05.413,No more problem
+2015-03-01 13:49:13.429,Problem found: Very cloudy
+2015-03-01 13:49:13.444,Problem found: Very cloudy
+2015-03-01 13:49:21.023,No more problem
+2015-03-01 13:49:24.039,Problem found: Very cloudy
+2015-03-01 13:49:24.054,Problem found: Very cloudy
+2015-03-01 13:49:37.880,No more problem
+2015-03-01 13:49:41.397,Problem found: Very cloudy
+2015-03-01 13:49:41.413,Problem found: Very cloudy
+2015-03-01 13:49:50.661,No more problem
+2015-03-01 13:49:57.179,Problem found: Very cloudy
+2015-03-01 13:49:57.194,Problem found: Very cloudy
+2015-03-01 13:50:01.756,No more problem
+2015-03-01 13:50:05.833,Problem found: Very cloudy
+2015-03-01 13:50:05.849,Problem found: Very cloudy
+2015-03-01 13:50:14.961,No more problem
+2015-03-01 13:50:17.975,Problem found: Very cloudy
+2015-03-01 13:50:17.991,Problem found: Very cloudy
+2015-03-01 13:50:22.552,No more problem
+2015-03-01 13:50:25.068,Problem found: Very cloudy
+2015-03-01 13:50:25.084,Problem found: Very cloudy
+2015-03-01 13:50:31.163,No more problem
+2015-03-01 13:50:33.679,Problem found: Very cloudy
+2015-03-01 13:50:33.694,Problem found: Very cloudy
+2015-03-01 13:50:45.960,No more problem
+2015-03-01 13:50:54.975,Problem found: Very cloudy
+2015-03-01 13:50:54.991,Problem found: Very cloudy
+2015-03-01 13:50:58.036,No more problem
+2015-03-01 13:51:03.538,Problem found: Very cloudy
+2015-03-01 13:51:03.554,Problem found: Very cloudy
+2015-03-01 13:52:09.054,No more problem
+2015-03-01 13:52:11.568,Problem found: Very cloudy
+2015-03-01 13:52:11.584,Problem found: Very cloudy
+2015-03-01 13:52:23.851,No more problem
+2015-03-01 13:52:27.365,Problem found: Very cloudy
+2015-03-01 13:52:27.381,Problem found: Very cloudy
+2015-03-01 13:52:33.459,No more problem
+2015-03-01 13:52:47.959,Problem found: Very cloudy
+2015-03-01 13:52:47.974,Problem found: Very cloudy
+2015-03-01 13:52:52.523,No more problem
+2015-03-01 13:52:55.039,Problem found: Very cloudy
+2015-03-01 13:52:55.054,Problem found: Very cloudy
+2015-03-01 13:53:13.507,No more problem
+2015-03-01 13:53:19.522,Problem found: Very cloudy
+2015-03-01 13:53:19.537,Problem found: Very cloudy
+2015-03-01 13:53:21.069,No more problem
+2015-03-01 13:53:24.583,Problem found: Very cloudy
+2015-03-01 13:53:24.599,Problem found: Very cloudy
+2015-03-01 13:53:45.820,No more problem
+2015-03-01 13:53:49.319,Problem found: Very cloudy
+2015-03-01 13:53:49.334,Problem found: Very cloudy
+2015-03-01 13:53:56.929,No more problem
+2015-03-01 13:53:57.945,Problem found: Very cloudy
+2015-03-01 13:53:57.960,Problem found: Very cloudy
+2015-03-01 13:54:01.148,No more problem
+2015-03-01 13:54:13.789,Problem found: Very cloudy
+2015-03-01 13:54:13.804,Problem found: Very cloudy
+2015-03-01 13:54:38.053,No more problem
+2015-03-01 13:54:41.569,Problem found: Very cloudy
+2015-03-01 13:54:41.584,Problem found: Very cloudy
+2015-03-01 13:56:57.009,No more problem
+2015-03-01 13:57:11.585,Problem found: Very cloudy
+2015-03-01 13:57:11.601,Problem found: Very cloudy
+2015-03-01 13:57:20.836,No more problem
+2015-03-01 13:57:23.851,Problem found: Very cloudy
+2015-03-01 13:57:23.866,Problem found: Very cloudy
+2015-03-01 13:59:23.977,No more problem
+2015-03-01 13:59:26.493,Problem found: Very cloudy
+2015-03-01 13:59:26.508,Problem found: Very cloudy
+2015-03-01 13:59:50.913,No more problem
+2015-03-01 13:59:52.429,Problem found: Very cloudy
+2015-03-01 13:59:52.444,Problem found: Very cloudy
+2015-03-01 14:00:04.710,No more problem
+2015-03-01 14:01:36.805,Problem found: Very cloudy
+2015-03-01 14:01:36.820,Problem found: Very cloudy
+2015-03-01 14:02:17.741,No more problem
+2015-03-01 14:02:18.757,Problem found: Very cloudy
+2015-03-01 14:02:18.773,Problem found: Very cloudy
+2015-03-01 14:09:35.228,No more problem
+2015-03-01 14:09:37.742,Problem found: Very cloudy
+2015-03-01 14:09:37.758,Problem found: Very cloudy
+2015-03-01 14:10:24.963,No more problem
+2015-03-01 14:10:31.978,Problem found: Very cloudy
+2015-03-01 14:10:31.994,Problem found: Very cloudy
+2015-03-01 14:11:00.947,No more problem
+2015-03-01 14:11:01.463,Problem found: Very cloudy
+2015-03-01 14:11:01.478,Problem found: Very cloudy
+2015-03-01 14:12:31.274,No more problem
+2015-03-01 14:12:34.291,Problem found: Very cloudy
+2015-03-01 14:12:34.306,Problem found: Very cloudy
+2015-03-01 14:13:03.102,No more problem
+2015-03-01 14:13:03.618,Problem found: Very cloudy
+2015-03-01 14:13:03.633,Problem found: Very cloudy
+2015-03-01 14:14:42.573,No more problem
+2015-03-01 14:14:45.087,Problem found: Very cloudy
+2015-03-01 14:14:45.103,Problem found: Very cloudy
+2015-03-01 14:14:57.370,No more problem
+2015-03-01 14:15:00.884,Problem found: Very cloudy
+2015-03-01 14:15:00.900,Problem found: Very cloudy
+2015-03-01 14:15:13.117,No more problem
+2015-03-01 14:15:22.134,Problem found: Very cloudy
+2015-03-01 14:15:22.150,Problem found: Very cloudy
+2015-03-01 14:18:17.540,No more problem
+2015-03-01 14:18:18.556,Problem found: Very cloudy
+2015-03-01 14:18:18.572,Problem found: Very cloudy
+2015-03-01 14:20:30.962,No more problem
+2015-03-01 14:20:32.977,Problem found: Very cloudy
+2015-03-01 14:20:32.992,Problem found: Very cloudy
+2015-03-01 14:25:40.291,No more problem
+2015-03-01 14:25:42.806,Problem found: Very cloudy
+2015-03-01 14:25:42.822,Problem found: Very cloudy
+2015-03-01 14:46:11.654,No more problem
+2015-03-01 14:46:14.311,Problem found: Very cloudy
+2015-03-01 14:46:14.326,Problem found: Very cloudy
+2015-03-01 14:46:23.436,No more problem
+2015-03-01 14:46:24.952,Problem found: Very cloudy
+2015-03-01 14:46:24.968,Problem found: Very cloudy
+2015-03-01 14:47:24.370,No more problem
+2015-03-01 14:47:25.886,Problem found: Very cloudy
+2015-03-01 14:47:25.901,Problem found: Very cloudy
+2015-03-01 15:04:09.109,No more problem
+2015-03-01 15:04:12.625,Problem found: Very cloudy
+2015-03-01 15:04:12.640,Problem found: Very cloudy
+2015-03-01 15:04:50.831,No more problem
+2015-03-01 15:04:54.347,Problem found: Very cloudy
+2015-03-01 15:04:54.362,Problem found: Very cloudy
+2015-03-01 15:06:11.837,No more problem
+2015-03-01 15:06:16.416,Problem found: Very cloudy
+2015-03-01 15:06:16.431,Problem found: Very cloudy
+2015-03-01 15:10:31.989,No more problem
+2015-03-01 15:10:34.505,Problem found: Very cloudy
+2015-03-01 15:10:34.521,Problem found: Very cloudy
+2015-03-01 15:10:52.866,No more problem
+2015-03-01 15:10:55.382,Problem found: Very cloudy
+2015-03-01 15:10:55.397,Problem found: Very cloudy
+2015-03-01 15:14:33.270,No more problem
+2015-03-01 15:14:34.785,Problem found: Very cloudy
+2015-03-01 15:14:34.801,Problem found: Very cloudy
+2015-03-01 15:14:57.600,No more problem
+2015-03-01 15:15:01.116,Problem found: Very cloudy
+2015-03-01 15:15:01.131,Problem found: Very cloudy
+2015-03-01 15:15:10.241,No more problem
+2015-03-01 15:15:11.257,Problem found: Very cloudy
+2015-03-01 15:15:11.273,Problem found: Very cloudy
+2015-03-01 15:16:44.399,No more problem
+2015-03-01 15:16:47.415,Problem found: Very cloudy
+2015-03-01 15:16:47.446,Problem found: Very cloudy
+2015-03-01 15:17:24.105,No more problem
+2015-03-01 15:17:25.621,Problem found: Very cloudy
+2015-03-01 15:17:25.636,Problem found: Very cloudy
+2015-03-01 15:17:37.778,No more problem
+2015-03-01 15:17:41.294,Problem found: Very cloudy
+2015-03-01 15:17:41.309,Problem found: Very cloudy
+2015-03-01 15:18:49.705,No more problem
+2015-03-01 15:18:51.221,Problem found: Very cloudy
+2015-03-01 15:18:51.237,Problem found: Very cloudy
+2015-03-01 15:20:51.387,No more problem
+2015-03-01 15:20:54.903,Problem found: Very cloudy
+2015-03-01 15:20:54.918,Problem found: Very cloudy
+2015-03-01 15:24:50.912,No more problem
+2015-03-01 15:24:53.444,Problem found: Very cloudy
+2015-03-01 15:24:53.460,Problem found: Very cloudy
+2015-03-01 15:33:17.451,No more problem
+2015-03-01 15:33:20.967,Problem found: Very cloudy
+2015-03-01 15:33:20.982,Problem found: Very cloudy
+2015-03-01 15:35:13.600,No more problem
+2015-03-01 15:35:16.116,Problem found: Very cloudy
+2015-03-01 15:35:16.132,Problem found: Very cloudy
+2015-03-01 15:50:31.962,No more problem
+2015-03-01 15:50:32.977,Problem found: Very cloudy
+2015-03-01 15:50:32.993,Problem found: Very cloudy
+2015-03-01 15:50:55.885,No more problem
+2015-03-01 15:50:57.401,Problem found: Very cloudy
+2015-03-01 15:50:57.417,Problem found: Very cloudy
+2015-03-01 15:51:01.995,No more problem
+2015-03-01 15:51:04.511,Problem found: Very cloudy
+2015-03-01 15:51:04.527,Problem found: Very cloudy
+2015-03-01 15:51:38.170,No more problem
+2015-03-01 15:51:41.186,Problem found: Very cloudy
+2015-03-01 15:51:41.201,Problem found: Very cloudy
+2015-03-01 15:51:50.318,No more problem
+2015-03-01 15:51:56.835,Problem found: Very cloudy
+2015-03-01 15:51:56.850,Problem found: Very cloudy
+2015-03-01 15:52:08.992,No more problem
+2015-03-01 15:52:12.508,Problem found: Very cloudy
+2015-03-01 15:52:12.523,Problem found: Very cloudy
+2015-03-01 15:52:21.665,No more problem
+2015-03-01 15:52:29.681,Problem found: Very cloudy
+2015-03-01 15:52:29.696,Problem found: Very cloudy
+2015-03-01 15:52:46.385,No more problem
+2015-03-01 15:52:48.901,Problem found: Very cloudy
+2015-03-01 15:52:48.917,Problem found: Very cloudy
+2015-03-01 15:53:02.574,No more problem
+2015-03-01 15:53:06.090,Problem found: Very cloudy
+2015-03-01 15:53:06.106,Problem found: Very cloudy
+2015-03-01 15:53:30.576,No more problem
+2015-03-01 15:53:34.092,Problem found: Very cloudy
+2015-03-01 15:53:34.108,Problem found: Very cloudy
+2015-03-01 15:53:58.375,No more problem
+2015-03-01 15:54:02.001,Problem found: Very cloudy
+2015-03-01 15:54:02.016,Problem found: Very cloudy
+2015-03-01 15:54:38.550,No more problem
+2015-03-01 15:54:42.066,Problem found: Very cloudy
+2015-03-01 15:54:42.082,Problem found: Very cloudy
+2015-03-01 15:54:43.613,No more problem
+2015-03-01 15:54:47.129,Problem found: Very cloudy
+2015-03-01 15:54:47.145,Problem found: Very cloudy
+2015-03-01 15:55:03.912,No more problem
+2015-03-01 15:55:06.443,Problem found: Very cloudy
+2015-03-01 15:55:06.459,Problem found: Very cloudy
+2015-03-01 15:55:15.569,No more problem
+2015-03-01 15:55:27.085,Problem found: Very cloudy
+2015-03-01 15:55:27.101,Problem found: Very cloudy
+2015-03-01 15:55:36.211,No more problem
+2015-03-01 15:55:39.727,Problem found: Very cloudy
+2015-03-01 15:55:39.743,Problem found: Very cloudy
+2015-03-01 15:55:42.930,No more problem
+2015-03-01 15:55:46.446,Problem found: Very cloudy
+2015-03-01 15:55:46.462,Problem found: Very cloudy
+2015-03-01 15:55:58.603,No more problem
+2015-03-01 15:56:04.119,Problem found: Very cloudy
+2015-03-01 15:56:04.135,Problem found: Very cloudy
+2015-03-01 15:56:31.653,No more problem
+2015-03-01 15:56:33.669,Problem found: Very cloudy
+2015-03-01 15:56:33.684,Problem found: Very cloudy
+2015-03-01 15:56:44.482,No more problem
+2015-03-01 15:56:59.523,Problem found: Very cloudy
+2015-03-01 15:56:59.554,Problem found: Very cloudy
+2015-03-01 15:57:08.648,No more problem
+2015-03-01 15:58:00.793,Problem found: Very cloudy
+2015-03-01 15:58:00.809,Problem found: Very cloudy
+2015-03-01 15:58:05.371,No more problem
+2015-03-01 15:58:05.887,Problem found: Very cloudy
+2015-03-01 15:58:05.903,Problem found: Very cloudy
+2015-03-01 15:58:33.483,No more problem
+2015-03-01 15:58:36.999,Problem found: Very cloudy
+2015-03-01 15:58:37.015,Problem found: Very cloudy
+2015-03-01 15:58:43.093,No more problem
+2015-03-01 15:58:46.109,Problem found: Very cloudy
+2015-03-01 15:58:46.125,Problem found: Very cloudy
+2015-03-01 15:59:05.986,No more problem
+2015-03-01 15:59:07.001,Problem found: Very cloudy
+2015-03-01 15:59:07.017,Problem found: Very cloudy
+2015-03-01 15:59:14.611,No more problem
+2015-03-01 15:59:17.127,Problem found: Very cloudy
+2015-03-01 15:59:17.143,Problem found: Very cloudy
+2015-03-01 15:59:20.190,No more problem
+2015-03-01 16:00:51.041,Problem found: Very cloudy
+2015-03-01 16:00:51.072,Problem found: Very cloudy
+2015-03-01 16:00:55.619,No more problem
+2015-03-01 16:01:06.636,Problem found: Very cloudy
+2015-03-01 16:01:06.651,Problem found: Very cloudy
+2015-03-01 16:01:23.481,No more problem
+2015-03-01 16:04:13.050,Problem found: Very cloudy
+2015-03-01 16:04:13.066,Problem found: Very cloudy
+2015-03-01 16:04:16.238,No more problem
+2015-03-01 16:09:34.598,Problem found: Very cloudy
+2015-03-01 16:09:34.613,Problem found: Very cloudy
+2015-03-01 16:09:46.755,No more problem
+2015-03-01 16:09:59.350,Problem found: Very cloudy
+2015-03-01 16:09:59.365,Problem found: Very cloudy
+2015-03-01 16:10:02.413,No more problem
+2015-03-01 16:10:32.009,Problem found: Very cloudy
+2015-03-01 16:10:32.024,Problem found: Very cloudy
+2015-03-01 16:10:39.619,No more problem
+2015-03-01 16:10:42.666,Problem found: Very cloudy
+2015-03-01 16:10:42.681,Problem found: Very cloudy
+2015-03-01 16:10:44.213,No more problem
+2015-03-01 16:11:08.730,Problem found: Very cloudy
+2015-03-01 16:11:08.746,Problem found: Very cloudy
+2015-03-01 16:11:13.309,No more problem
+2015-03-01 16:11:40.139,Problem found: Very cloudy
+2015-03-01 16:11:40.154,Problem found: Very cloudy
+2015-03-01 16:11:49.256,No more problem
+2015-03-01 16:13:00.300,Problem found: Very cloudy
+2015-03-01 16:13:00.316,Problem found: Very cloudy
+2015-03-01 16:13:12.598,No more problem
+2015-03-01 16:13:14.114,Problem found: Very cloudy
+2015-03-01 16:13:14.130,Problem found: Very cloudy
+2015-03-01 16:13:18.833,No more problem
+2015-03-01 16:13:41.850,Problem found: Very cloudy
+2015-03-01 16:13:41.866,Problem found: Very cloudy
+2015-03-01 16:13:46.429,No more problem
+2015-03-01 16:14:51.622,Problem found: Very cloudy
+2015-03-01 16:14:51.637,Problem found: Very cloudy
+2015-03-01 16:14:56.200,No more problem
+2015-03-01 16:15:05.716,Problem found: Very cloudy
+2015-03-01 16:15:05.732,Problem found: Very cloudy
+2015-03-01 16:15:07.263,No more problem
+2015-03-01 16:15:10.779,Problem found: Very cloudy
+2015-03-01 16:15:10.795,Problem found: Very cloudy
+2015-03-01 16:15:19.967,No more problem
+2015-03-01 16:15:26.484,Problem found: Very cloudy
+2015-03-01 16:15:26.499,Problem found: Very cloudy
+2015-03-01 16:15:32.578,No more problem
+2015-03-01 16:15:35.094,Problem found: Very cloudy
+2015-03-01 16:15:35.109,Problem found: Very cloudy
+2015-03-01 16:15:42.844,No more problem
+2015-03-01 16:16:03.361,Problem found: Very cloudy
+2015-03-01 16:16:03.377,Problem found: Very cloudy
+2015-03-01 16:16:33.911,No more problem
+2015-03-01 16:16:39.927,Problem found: Very cloudy
+2015-03-01 16:16:39.942,Problem found: Very cloudy
+2015-03-01 16:17:07.235,No more problem
+2015-03-01 16:17:09.751,Problem found: Very cloudy
+2015-03-01 16:17:09.767,Problem found: Very cloudy
+2015-03-01 16:17:17.502,No more problem
+2015-03-01 16:17:22.127,Problem found: Very cloudy
+2015-03-01 16:17:22.143,Problem found: Very cloudy
+2015-03-01 16:17:58.536,No more problem
+2015-03-01 16:18:05.552,Problem found: Very cloudy
+2015-03-01 16:18:05.568,Problem found: Very cloudy
+2015-03-01 16:18:10.271,No more problem
+2015-03-01 16:18:10.787,Problem found: Very cloudy
+2015-03-01 16:18:10.803,Problem found: Very cloudy
+2015-03-01 16:18:27.554,No more problem
+2015-03-01 16:18:30.070,Problem found: Very cloudy
+2015-03-01 16:18:30.086,Problem found: Very cloudy
+2015-03-01 16:18:54.353,No more problem
+2015-03-01 16:18:57.869,Problem found: Very cloudy
+2015-03-01 16:18:57.885,Problem found: Very cloudy
+2015-03-01 16:19:56.061,No more problem
+2015-03-01 16:19:59.077,Problem found: Very cloudy
+2015-03-01 16:19:59.108,Problem found: Very cloudy
+2015-03-01 16:20:11.234,No more problem
+2015-03-01 16:20:16.313,Problem found: Very cloudy
+2015-03-01 16:20:16.328,Problem found: Very cloudy
+2015-03-01 16:20:45.284,No more problem
+2015-03-01 16:20:51.300,Problem found: Very cloudy
+2015-03-01 16:20:51.315,Problem found: Very cloudy
+2015-03-01 16:20:57.394,No more problem
+2015-03-01 16:20:59.910,Problem found: Very cloudy
+2015-03-01 16:20:59.925,Problem found: Very cloudy
+2015-03-01 16:21:16.755,No more problem
+2015-03-01 16:21:20.771,Problem found: Very cloudy
+2015-03-01 16:21:20.786,Problem found: Very cloudy
+2015-03-01 16:21:25.349,No more problem
+2015-03-01 16:21:27.865,Problem found: Very cloudy
+2015-03-01 16:21:27.881,Problem found: Very cloudy
+2015-03-01 16:21:37.131,No more problem
+2015-03-01 16:21:40.147,Problem found: Very cloudy
+2015-03-01 16:21:40.163,Problem found: Very cloudy
+2015-03-01 16:21:46.241,No more problem
+2015-03-01 16:21:48.757,Problem found: Very cloudy
+2015-03-01 16:21:48.773,Problem found: Very cloudy
+2015-03-01 16:21:54.858,No more problem
+2015-03-01 16:22:07.875,Problem found: Very cloudy
+2015-03-01 16:22:07.891,Problem found: Very cloudy
+2015-03-01 16:22:09.422,No more problem
+2015-03-01 16:22:16.563,Problem found: Very cloudy
+2015-03-01 16:22:16.579,Problem found: Very cloudy
+2015-03-01 16:22:34.924,No more problem
+2015-03-01 16:22:37.440,Problem found: Very cloudy
+2015-03-01 16:22:37.455,Problem found: Very cloudy
+2015-03-01 16:22:57.176,No more problem
+2015-03-01 16:22:58.191,Problem found: Very cloudy
+2015-03-01 16:22:58.207,Problem found: Very cloudy
+2015-03-01 16:23:05.801,No more problem
+2015-03-01 16:23:08.817,Problem found: Very cloudy
+2015-03-01 16:23:08.833,Problem found: Very cloudy
+2015-03-01 16:23:57.634,No more problem
+2015-03-01 16:23:59.165,Problem found: Very cloudy
+2015-03-01 16:23:59.181,Problem found: Very cloudy
+2015-03-01 16:24:11.463,No more problem
+2015-03-01 16:24:14.979,Problem found: Very cloudy
+2015-03-01 16:24:14.994,Problem found: Very cloudy
+2015-03-01 16:30:23.345,No more problem
+2015-03-01 16:30:24.861,Problem found: Very cloudy
+2015-03-01 16:30:24.876,Problem found: Very cloudy
+2015-03-01 16:31:45.461,No more problem
+2015-03-01 16:31:48.976,Problem found: Very cloudy
+2015-03-01 16:31:49.008,Problem found: Very cloudy
+2015-03-01 16:32:10.222,No more problem
+2015-03-01 16:32:13.238,Problem found: Very cloudy
+2015-03-01 16:32:13.253,Problem found: Very cloudy
+2015-03-01 16:38:47.588,No more problem
+2015-03-01 16:38:50.104,Problem found: Very cloudy
+2015-03-01 16:38:50.119,Problem found: Very cloudy
+2015-03-01 16:39:58.781,No more problem
+2015-03-01 16:40:01.797,Problem found: Very cloudy
+2015-03-01 16:40:01.813,Problem found: Very cloudy
+2015-03-01 16:40:10.923,No more problem
+2015-03-01 16:40:18.939,Problem found: Very cloudy
+2015-03-01 16:40:18.955,Problem found: Very cloudy
+2015-03-01 16:40:26.658,No more problem
+2015-03-01 16:40:27.768,Problem found: Very cloudy
+2015-03-01 16:40:27.783,Problem found: Very cloudy
+2015-03-01 16:40:44.691,No more problem
+2015-03-01 16:40:50.754,Problem found: Very cloudy
+2015-03-01 16:40:50.769,Problem found: Very cloudy
+2015-03-01 16:40:56.848,No more problem
+2015-03-01 16:41:02.864,Problem found: Very cloudy
+2015-03-01 16:41:02.895,Problem found: Very cloudy
+2015-03-01 16:41:11.990,No more problem
+2015-03-01 16:41:13.506,Problem found: Very cloudy
+2015-03-01 16:41:13.521,Problem found: Very cloudy
+2015-03-01 16:41:24.147,No more problem
+2015-03-01 16:41:27.163,Problem found: Very cloudy
+2015-03-01 16:41:27.179,Problem found: Very cloudy
+2015-03-01 16:42:21.862,No more problem
+2015-03-01 16:42:24.878,Problem found: Very cloudy
+2015-03-01 16:42:24.893,Problem found: Very cloudy
+2015-03-01 16:42:29.611,No more problem
+2015-03-01 16:42:33.627,Problem found: Very cloudy
+2015-03-01 16:42:33.689,Problem found: Very cloudy
+2015-03-01 16:44:33.777,No more problem
+2015-03-01 16:44:35.793,Problem found: Very cloudy
+2015-03-01 16:44:35.808,Problem found: Very cloudy
+2015-03-01 16:44:47.950,No more problem
+2015-03-01 16:44:51.544,Problem found: Very cloudy
+2015-03-01 16:44:51.559,Problem found: Very cloudy
+2015-03-01 16:49:42.310,No more problem
+2015-03-01 16:49:44.826,Problem found: Very cloudy
+2015-03-01 16:49:44.842,Problem found: Very cloudy
+2015-03-01 16:49:49.405,No more problem
+2015-03-01 16:49:52.061,Problem found: Very cloudy
+2015-03-01 16:49:52.077,Problem found: Very cloudy
+2015-03-01 16:54:38.668,No more problem
+2015-03-01 16:54:45.685,Problem found: Very cloudy
+2015-03-01 16:54:45.700,Problem found: Very cloudy
+2015-03-01 17:00:40.604,No more problem
+2015-03-01 17:00:43.620,Problem found: Very cloudy
+2015-03-01 17:00:43.635,Problem found: Very cloudy
+2015-03-01 17:01:21.560,No more problem
+2015-03-01 17:01:25.576,Problem found: Very cloudy
+2015-03-01 17:01:25.592,Problem found: Very cloudy
+2015-03-01 17:02:06.558,No more problem
+2015-03-01 17:02:09.198,Problem found: Very cloudy
+2015-03-01 17:02:09.214,Problem found: Very cloudy
+2015-03-01 17:02:33.763,No more problem
+2015-03-01 17:02:36.982,Problem found: Very cloudy
+2015-03-01 17:02:36.997,Problem found: Very cloudy
+2015-03-01 17:02:58.233,No more problem
+2015-03-01 17:03:04.750,Problem found: Very cloudy
+2015-03-01 17:03:04.765,Problem found: Very cloudy
+2015-03-01 17:06:16.671,No more problem
+2015-03-01 17:06:20.187,Problem found: Very cloudy
+2015-03-01 17:06:20.202,Problem found: Very cloudy
+2015-03-01 17:08:26.735,No more problem
+2015-03-01 17:08:29.313,Problem found: Very cloudy
+2015-03-01 17:08:29.329,Problem found: Very cloudy
+2015-03-01 17:12:00.649,No more problem
+2015-03-01 17:12:03.665,Problem found: Very cloudy
+2015-03-01 17:12:03.681,Problem found: Very cloudy
+2015-03-01 17:18:19.810,No more problem
+2015-03-01 17:18:22.326,Problem found: Very cloudy
+2015-03-01 17:18:22.342,Problem found: Very cloudy
+2015-03-01 17:20:24.226,No more problem
+2015-03-01 17:20:31.383,Problem found: Very cloudy
+2015-03-01 17:20:31.399,Problem found: Very cloudy
+2015-03-01 17:20:52.775,No more problem
+2015-03-01 17:20:55.791,Problem found: Very cloudy
+2015-03-01 17:20:55.807,Problem found: Very cloudy
+2015-03-01 17:22:01.459,No more problem
+2015-03-01 17:22:03.475,Problem found: Very cloudy
+2015-03-01 17:22:03.491,Problem found: Very cloudy
+2015-03-01 17:54:45.038,No more problem
+2015-03-01 17:54:49.054,Problem found: Very cloudy
+2015-03-01 17:54:49.070,Problem found: Very cloudy
+2015-03-01 17:57:32.277,No more problem
+2015-03-01 17:57:37.293,Problem found: Very cloudy
+2015-03-01 17:57:37.309,Problem found: Very cloudy
+2015-03-01 17:57:42.012,No more problem
+2015-03-01 17:57:43.028,Problem found: Very cloudy
+2015-03-01 17:57:43.044,Problem found: Very cloudy
+2015-03-01 17:58:57.478,No more problem
+2015-03-01 17:58:59.040,Problem found: Very cloudy
+2015-03-01 17:58:59.056,Problem found: Very cloudy
+2015-03-01 17:59:26.495,No more problem
+2015-03-01 17:59:30.511,Problem found: Very cloudy
+2015-03-01 17:59:30.527,Problem found: Very cloudy
+2015-03-01 17:59:54.841,No more problem
+2015-03-01 17:59:57.857,Problem found: Very cloudy
+2015-03-01 17:59:57.873,Problem found: Very cloudy
+2015-03-01 18:00:28.203,No more problem
+2015-03-01 18:00:37.220,Problem found: Very cloudy
+2015-03-01 18:00:37.235,Problem found: Very cloudy
+2015-03-01 18:00:43.626,No more problem
+2015-03-01 18:03:53.401,Problem found: Very cloudy
+2015-03-01 18:03:53.416,Problem found: Very cloudy
+2015-03-01 18:04:07.292,No more problem
+2015-03-01 18:04:11.308,Problem found: Very cloudy
+2015-03-01 18:04:11.324,Problem found: Very cloudy
+2015-03-01 18:04:20.434,No more problem
+2015-03-01 18:05:13.188,Problem found: Very cloudy
+2015-03-01 18:05:13.204,Problem found: Very cloudy
+2015-03-01 18:05:17.767,No more problem
+2015-03-01 18:05:22.283,Problem found: Very cloudy
+2015-03-01 18:05:22.298,Problem found: Very cloudy
+2015-03-01 18:05:26.861,No more problem
+2015-03-01 18:05:30.877,Problem found: Very cloudy
+2015-03-01 18:05:30.893,Problem found: Very cloudy
+2015-03-01 18:05:35.627,No more problem
+2015-03-01 18:05:38.143,Problem found: Very cloudy
+2015-03-01 18:05:38.159,Problem found: Very cloudy
+2015-03-01 18:05:43.065,No more problem
+2015-03-01 18:05:50.082,Problem found: Very cloudy
+2015-03-01 18:05:50.097,Problem found: Very cloudy
+2015-03-01 18:05:56.176,No more problem
+2015-03-01 18:05:59.223,Problem found: Very cloudy
+2015-03-01 18:05:59.239,Problem found: Very cloudy
+2015-03-01 18:06:29.569,No more problem
+2015-03-01 18:06:32.179,Problem found: Very cloudy
+2015-03-01 18:06:32.194,Problem found: Very cloudy
+2015-03-01 18:06:49.024,No more problem
+2015-03-01 18:06:51.540,Problem found: Very cloudy
+2015-03-01 18:06:51.555,Problem found: Very cloudy
+2015-03-01 18:06:57.634,No more problem
+2015-03-01 18:07:00.306,Problem found: Very cloudy
+2015-03-01 18:07:00.322,Problem found: Very cloudy
+2015-03-01 18:07:09.432,No more problem
+2015-03-01 18:07:33.550,Problem found: Very cloudy
+2015-03-01 18:07:33.565,Problem found: Very cloudy
+2015-03-01 18:07:41.144,No more problem
+2015-03-01 18:07:49.192,Problem found: Very cloudy
+2015-03-01 18:07:49.207,Problem found: Very cloudy
+2015-03-01 18:07:53.770,No more problem
+2015-03-01 18:08:01.286,Problem found: Very cloudy
+2015-03-01 18:08:01.302,Problem found: Very cloudy
+2015-03-01 18:08:18.131,No more problem
+2015-03-01 18:08:34.148,Problem found: Very cloudy
+2015-03-01 18:08:34.164,Problem found: Very cloudy
+2015-03-01 18:08:38.758,No more problem
+2015-03-01 18:08:44.837,Problem found: Very cloudy
+2015-03-01 18:08:44.852,Problem found: Very cloudy
+2015-03-01 18:08:46.384,No more problem
+2015-03-01 18:48:20.826,Problem found: Very cloudy
+2015-03-01 18:48:20.842,Problem found: Very cloudy
+2015-03-01 18:48:28.436,No more problem
+2015-03-01 18:48:55.485,Problem found: Very cloudy
+2015-03-01 18:48:55.501,Problem found: Very cloudy
+2015-03-01 18:48:58.548,No more problem
+2015-03-01 18:49:21.671,Problem found: Very cloudy
+2015-03-01 18:49:21.686,Problem found: Very cloudy
+2015-03-01 18:50:09.046,No more problem
+2015-03-01 19:21:39.873,DUSK
+2015-03-01 19:25:19.855,Problem found: Very cloudy
+2015-03-01 19:25:19.886,Problem found: Very cloudy
+2015-03-01 19:26:22.183,Problem found: Very cloudy
+2015-03-01 19:26:51.807,Problem found: Very cloudy
+2015-03-01 19:27:22.274,Problem found: Very cloudy
+2015-03-01 19:27:56.120,Problem found: Very cloudy
+2015-03-01 19:28:27.056,Problem found: Very cloudy
+2015-03-01 19:29:07.213,Problem found: Very cloudy
+2015-03-01 19:29:41.354,Problem found: Very cloudy
+2015-03-01 19:30:23.102,Problem found: Very cloudy
+2015-03-01 19:30:59.882,Problem found: Very cloudy
+2015-03-01 19:31:31.288,Problem found: Very cloudy
+2015-03-01 19:32:04.882,Problem found: Very cloudy
+2015-03-01 19:32:40.586,Problem found: Very cloudy
+2015-03-01 19:33:20.788,Problem found: Very cloudy
+2015-03-01 19:33:56.695,No more problem
+2015-03-01 19:47:43.705,Problem found: Very cloudy
+2015-03-01 19:47:43.736,Problem found: Very cloudy
+2015-03-01 19:49:36.056,Problem found: Very cloudy
+2015-03-01 19:51:25.994,Problem found: Very cloudy
+2015-03-01 19:52:53.657,No more problem
+2015-03-01 19:52:59.938,Problem found: Very cloudy
+2015-03-01 19:52:59.954,Problem found: Very cloudy
+2015-03-01 19:53:09.158,No more problem
+2015-03-01 19:53:12.321,Problem found: Very cloudy
+2015-03-01 19:53:12.337,Problem found: Very cloudy
+2015-03-01 19:53:29.198,No more problem
+2015-03-01 19:53:33.479,Problem found: Very cloudy
+2015-03-01 19:53:33.495,Problem found: Very cloudy
+2015-03-01 19:53:36.573,No more problem
+2015-03-01 19:53:40.386,Problem found: Very cloudy
+2015-03-01 19:53:40.402,Problem found: Very cloudy
+2015-03-01 19:53:41.949,No more problem
+2015-03-01 19:53:45.574,Problem found: Very cloudy
+2015-03-01 19:53:45.605,Problem found: Very cloudy
+2015-03-01 19:54:02.622,No more problem
+2015-03-01 19:54:06.904,Problem found: Very cloudy
+2015-03-01 19:54:06.919,Problem found: Very cloudy
+2015-03-01 19:54:10.216,No more problem
+2015-03-01 19:54:13.889,Problem found: Very cloudy
+2015-03-01 19:54:13.904,Problem found: Very cloudy
+2015-03-01 19:54:20.045,No more problem
+2015-03-01 19:54:22.639,Problem found: Very cloudy
+2015-03-01 19:54:22.655,Problem found: Very cloudy
+2015-03-01 19:54:53.329,No more problem
+2015-03-01 19:54:55.923,Problem found: Very cloudy
+2015-03-01 19:54:55.939,Problem found: Very cloudy
+2015-03-01 19:55:08.353,No more problem
+2015-03-01 19:55:15.072,Problem found: Very cloudy
+2015-03-01 19:55:15.088,Problem found: Very cloudy
+2015-03-01 19:57:24.295,No more problem
+2015-03-01 19:57:30.061,Problem found: Very cloudy
+2015-03-01 19:57:30.077,Problem found: Very cloudy
+2015-03-01 19:57:42.343,No more problem
+2015-03-01 19:57:43.906,Problem found: Very cloudy
+2015-03-01 19:57:43.921,Problem found: Very cloudy
+2015-03-01 19:57:51.641,No more problem
+2015-03-01 19:57:56.297,Problem found: Very cloudy
+2015-03-01 19:57:56.313,Problem found: Very cloudy
+2015-03-01 19:58:00.970,No more problem
+2015-03-01 20:06:37.270,NIGHT
+2015-03-01 20:12:59.580,Decide to OPEN
+2015-03-01 20:12:59.596,OPEN message sent successfully
+2015-03-01 20:13:00.236,Decide to OPEN
+2015-03-01 20:13:00.315,OPEN message sent successfully
+2015-03-01 20:13:00.955,Roof OPENING
+2015-03-01 20:13:03.018,Roof OPENING
+2015-03-01 20:13:03.690,Decide to OPEN
+2015-03-01 20:13:03.705,OPEN message sent successfully
+2015-03-01 20:13:04.346,Roof OPENING
+2015-03-01 20:15:02.394,Roof OPENING
+2015-03-01 20:21:45.024,Problem found: Very cloudy
+2015-03-01 20:21:45.055,Problem found: Very cloudy
+2015-03-01 20:21:54.165,No more problem
+2015-03-01 20:31:38.448,Problem found: Very cloudy
+2015-03-01 20:31:38.480,Problem found: Very cloudy
+2015-03-01 20:31:53.653,No more problem
+2015-03-01 20:31:57.200,Problem found: Very cloudy
+2015-03-01 20:31:57.231,Problem found: Very cloudy
+2015-03-01 20:32:01.772,No more problem
+2015-03-01 20:32:12.789,Problem found: Very cloudy
+2015-03-01 20:32:12.820,Problem found: Very cloudy
+2015-03-01 20:32:42.697,CLOSE message sent successfully
+2015-03-01 20:32:42.854,Starts to close the roof (currently Opened).
+2015-03-01 20:32:53.351,No more problem
+2015-03-01 20:32:53.382,Roof CLOSING
+2015-03-01 20:33:09.774,Roof CLOSING
+2015-03-01 20:33:10.321,Problem found: Very cloudy
+2015-03-01 20:33:10.336,Problem found: Very cloudy
+2015-03-01 20:33:20.962,No more problem
+2015-03-01 20:33:20.993,Roof CLOSING
+2015-03-01 20:33:23.041,Roof CLOSING
+2015-03-01 20:33:23.525,Problem found: Very cloudy
+2015-03-01 20:33:23.541,Problem found: Very cloudy
+2015-03-01 20:33:25.088,No more problem
+2015-03-01 20:33:25.119,Roof CLOSING
+2015-03-01 20:33:33.651,Roof CLOSING
+2015-03-01 20:33:34.135,Problem found: Very cloudy
+2015-03-01 20:33:34.166,Problem found: Very cloudy
+2015-03-01 20:33:37.198,No more problem
+2015-03-01 20:33:37.229,Roof CLOSING
+2015-03-01 20:33:39.261,Roof CLOSING
+2015-03-01 20:33:39.761,Problem found: Very cloudy
+2015-03-01 20:33:39.792,Problem found: Very cloudy
+2015-03-01 20:33:42.823,No more problem
+2015-03-01 20:33:42.855,Roof CLOSING
+2015-03-01 20:33:49.136,Roof CLOSING
+2015-03-01 20:33:49.636,Problem found: Very cloudy
+2015-03-01 20:33:49.652,Problem found: Very cloudy
+2015-03-01 20:33:54.215,No more problem
+2015-03-01 20:33:54.246,Roof CLOSING
+2015-03-01 20:34:43.203,Roof CLOSING
+2015-03-01 20:43:44.400,Problem found: Very cloudy
+2015-03-01 20:43:44.431,Problem found: Very cloudy
+2015-03-01 20:44:00.542,No more problem
+2015-03-01 20:44:06.433,Problem found: Very cloudy
+2015-03-01 20:44:06.464,Problem found: Very cloudy
+2015-03-01 20:44:15.590,No more problem
+2015-03-01 20:44:19.028,Problem found: Very cloudy
+2015-03-01 20:44:19.059,Problem found: Very cloudy
+2015-03-01 20:44:22.090,No more problem
+2015-03-01 20:44:30.841,Problem found: Very cloudy
+2015-03-01 20:44:30.872,Problem found: Very cloudy
+2015-03-01 20:44:56.781,No more problem
+2015-03-01 20:45:00.687,Problem found: Very cloudy
+2015-03-01 20:45:00.718,Problem found: Very cloudy
+2015-03-01 20:54:50.302,No more problem
+2015-03-01 20:54:51.818,Problem found: Very cloudy
+2015-03-01 20:54:51.833,Problem found: Very cloudy
+2015-03-01 20:55:48.338,No more problem
+2015-03-01 20:55:50.807,Problem found: Very cloudy
+2015-03-01 20:55:50.822,Problem found: Very cloudy
+2015-03-01 21:39:45.777,No more problem
+2015-03-01 21:54:44.473,Decide to OPEN
+2015-03-01 21:54:44.489,OPEN message sent successfully
+2015-03-01 21:54:45.130,Decide to OPEN
+2015-03-01 21:54:45.145,OPEN message sent successfully
+2015-03-01 21:54:45.786,Roof OPENING
+2015-03-01 21:54:48.364,Roof OPENING
+2015-03-01 21:54:48.880,Decide to OPEN
+2015-03-01 21:54:48.896,OPEN message sent successfully
+2015-03-01 21:54:49.536,Roof OPENING
+2015-03-01 21:56:48.409,Roof OPENING
+2015-03-01 22:31:46.053,Problem found: Very cloudy
+2015-03-01 22:31:46.084,Problem found: Very cloudy
+2015-03-01 22:32:41.964,CLOSE message sent successfully
+2015-03-01 22:32:42.120,Starts to close the roof (currently Opened).
+2015-03-01 23:29:20.560,No more problem
+2015-03-01 23:29:22.060,Problem found: Very cloudy
+2015-03-01 23:29:22.076,Problem found: Very cloudy
+2015-03-01 23:29:32.702,No more problem
+2015-03-01 23:29:34.186,Problem found: Very cloudy
+2015-03-01 23:29:34.202,Problem found: Very cloudy
+2015-03-01 23:29:38.765,No more problem
+2015-03-01 23:29:41.218,Problem found: Very cloudy
+2015-03-01 23:29:41.234,Problem found: Very cloudy
+2015-03-01 23:29:50.344,No more problem
+2015-03-01 23:30:33.250,Problem found: Very cloudy
+2015-03-01 23:30:33.265,Problem found: Very cloudy
+2015-03-01 23:30:36.312,No more problem
+2015-03-01 23:45:34.995,Decide to OPEN
+2015-03-01 23:45:35.011,OPEN message sent successfully
+2015-03-01 23:45:35.699,Decide to OPEN
+2015-03-01 23:45:35.714,OPEN message sent successfully
+2015-03-01 23:45:36.370,Roof OPENING
+2015-03-01 23:45:40.168,Roof OPENING
+2015-03-01 23:45:40.683,Decide to OPEN
+2015-03-01 23:45:40.699,OPEN message sent successfully
+2015-03-01 23:45:41.355,Roof OPENING
+2015-03-01 23:47:37.873,Roof OPENING
+2015-03-02 00:22:32.043,Problem found: Very cloudy
+2015-03-02 00:22:32.075,Problem found: Very cloudy
+2015-03-02 00:22:33.106,CLOSE message sent successfully
+2015-03-02 00:22:33.262,Starts to close the roof (currently Opened).
+2015-03-02 00:23:00.089,No more problem
+2015-03-02 00:23:00.136,Roof CLOSING
+2015-03-02 00:23:12.137,Roof CLOSING
+2015-03-02 00:23:12.621,Problem found: Very cloudy
+2015-03-02 00:23:12.652,Problem found: Very cloudy
+2015-03-02 00:23:18.855,No more problem
+2015-03-02 00:23:18.886,Roof CLOSING
+2015-03-02 00:23:20.980,Roof CLOSING
+2015-03-02 00:23:21.480,Problem found: Very cloudy
+2015-03-02 00:23:21.511,Problem found: Very cloudy
+2015-03-02 00:23:26.058,No more problem
+2015-03-02 00:23:26.090,Roof CLOSING
+2015-03-02 00:24:36.431,Roof CLOSING
+2015-03-02 00:38:24.891,Decide to OPEN
+2015-03-02 00:38:24.906,OPEN message sent successfully
+2015-03-02 00:38:25.609,Roof OPENING
+2015-03-02 00:38:28.700,Roof OPENING
+2015-03-02 00:38:29.247,Decide to OPEN
+2015-03-02 00:38:29.262,OPEN message sent successfully
+2015-03-02 00:38:29.903,Roof OPENING
+2015-03-02 00:40:25.310,Roof OPENING
+2015-03-02 01:06:24.082,Problem found: Very cloudy
+2015-03-02 01:06:24.114,Problem found: Very cloudy
+2015-03-02 01:06:27.145,No more problem
+2015-03-02 01:06:30.270,Problem found: Very cloudy
+2015-03-02 01:06:30.302,Problem found: Very cloudy
+2015-03-02 01:06:48.647,No more problem
+2015-03-02 01:06:51.163,Problem found: Very cloudy
+2015-03-02 01:06:51.194,Problem found: Very cloudy
+2015-03-02 01:07:12.430,No more problem
+2015-03-02 01:07:15.961,Problem found: Very cloudy
+2015-03-02 01:07:15.977,Problem found: Very cloudy
+2015-03-02 01:07:17.024,CLOSE message sent successfully
+2015-03-02 01:07:17.180,Starts to close the roof (currently Opened).
+2015-03-02 01:15:48.196,No more problem
+2015-03-02 01:15:51.149,Problem found: Very cloudy
+2015-03-02 01:15:51.165,Problem found: Very cloudy
+2015-03-02 01:15:54.212,No more problem
+2015-03-02 01:16:00.056,Problem found: Very cloudy
+2015-03-02 01:16:00.072,Problem found: Very cloudy
+2015-03-02 01:16:09.182,No more problem
+2015-03-02 01:16:12.135,Problem found: Very cloudy
+2015-03-02 01:16:12.151,Problem found: Very cloudy
+2015-03-02 01:16:18.355,No more problem
+2015-03-02 01:16:24.683,Problem found: Very cloudy
+2015-03-02 01:16:24.699,Problem found: Very cloudy
+2015-03-02 01:16:27.746,No more problem
+2015-03-02 01:16:48.817,Problem found: Very cloudy
+2015-03-02 01:16:48.833,Problem found: Very cloudy
+2015-03-02 01:16:53.396,No more problem
+2015-03-02 01:16:55.896,Problem found: Very cloudy
+2015-03-02 01:16:55.911,Problem found: Very cloudy
+2015-03-02 01:17:01.990,No more problem
+2015-03-02 01:17:04.459,Problem found: Very cloudy
+2015-03-02 01:17:04.475,Problem found: Very cloudy
+2015-03-02 01:17:09.037,No more problem
+2015-03-02 01:17:20.257,Problem found: Very cloudy
+2015-03-02 01:17:20.273,Problem found: Very cloudy
+2015-03-02 01:17:29.383,No more problem
+2015-03-02 01:17:32.320,Problem found: Very cloudy
+2015-03-02 01:17:32.336,Problem found: Very cloudy
+2015-03-02 01:17:33.961,No more problem
+2015-03-02 01:17:37.461,Problem found: Very cloudy
+2015-03-02 01:17:37.477,Problem found: Very cloudy
+2015-03-02 01:17:42.040,No more problem
+2015-03-02 01:17:46.447,Problem found: Very cloudy
+2015-03-02 01:17:46.462,Problem found: Very cloudy
+2015-03-02 01:17:51.025,No more problem
+2015-03-02 01:17:58.854,Problem found: Very cloudy
+2015-03-02 01:17:58.869,Problem found: Very cloudy
+2015-03-02 01:18:01.916,No more problem
+2015-03-02 01:18:14.339,Problem found: Very cloudy
+2015-03-02 01:18:14.355,Problem found: Very cloudy
+2015-03-02 01:25:42.288,No more problem
+2015-03-02 01:25:44.757,Problem found: Very cloudy
+2015-03-02 01:25:44.788,Problem found: Very cloudy
+2015-03-02 01:25:52.367,No more problem
+2015-03-02 01:26:04.071,Problem found: Very cloudy
+2015-03-02 01:26:04.102,Problem found: Very cloudy
+2015-03-02 01:26:07.133,No more problem
+2015-03-02 01:32:51.277,Problem found: Very cloudy
+2015-03-02 01:32:51.308,Problem found: Very cloudy
+2015-03-02 01:32:54.340,No more problem
+2015-03-02 01:32:56.387,Problem found: Very cloudy
+2015-03-02 01:32:56.418,Problem found: Very cloudy
+2015-03-02 01:33:13.310,No more problem
+2015-03-02 01:33:15.763,Problem found: Very cloudy
+2015-03-02 01:33:15.795,Problem found: Very cloudy
+2015-03-02 01:33:20.342,No more problem
+2015-03-02 01:33:24.268,Problem found: Very cloudy
+2015-03-02 01:33:24.300,Problem found: Very cloudy
+2015-03-02 01:36:14.886,No more problem
+2015-03-02 01:36:15.417,Problem found: Very cloudy
+2015-03-02 01:36:15.448,Problem found: Very cloudy
+2015-03-02 01:36:32.262,No more problem
+2015-03-02 01:36:34.825,Problem found: Very cloudy
+2015-03-02 01:36:34.840,Problem found: Very cloudy
+2015-03-02 01:36:43.950,No more problem
+2015-03-02 01:36:46.904,Problem found: Very cloudy
+2015-03-02 01:36:46.919,Problem found: Very cloudy
+2015-03-02 01:37:05.296,No more problem
+2015-03-02 01:37:07.749,Problem found: Very cloudy
+2015-03-02 01:37:07.765,Problem found: Very cloudy
+2015-03-02 01:38:10.292,No more problem
+2015-03-02 01:38:12.277,Problem found: Very cloudy
+2015-03-02 01:38:12.308,Problem found: Very cloudy
+2015-03-02 01:47:39.703,No more problem
+2015-03-02 01:47:46.047,Problem found: Very cloudy
+2015-03-02 01:47:46.063,Problem found: Very cloudy
+2015-03-02 01:47:52.142,No more problem
+2015-03-02 01:47:58.006,Problem found: Very cloudy
+2015-03-02 01:47:58.022,Problem found: Very cloudy
+2015-03-02 01:48:07.147,No more problem
+2015-03-02 02:03:05.771,Decide to OPEN
+2015-03-02 02:03:05.787,OPEN message sent successfully
+2015-03-02 02:03:06.412,Decide to OPEN
+2015-03-02 02:03:06.428,OPEN message sent successfully
+2015-03-02 02:03:07.162,Decide to OPEN
+2015-03-02 02:03:07.178,OPEN message sent successfully
+2015-03-02 02:03:07.803,Roof OPENING
+2015-03-02 02:03:10.850,Roof OPENING
+2015-03-02 02:03:11.350,Decide to OPEN
+2015-03-02 02:03:11.366,OPEN message sent successfully
+2015-03-02 02:03:11.991,Roof OPENING
+2015-03-02 02:05:08.223,Roof OPENING
+2015-03-02 03:45:10.800,Problem found: Very cloudy
+2015-03-02 03:45:10.815,Problem found: Very cloudy
+2015-03-02 03:45:15.378,No more problem
+2015-03-02 03:45:19.394,Problem found: Very cloudy
+2015-03-02 03:45:19.425,Problem found: Very cloudy
+2015-03-02 03:45:28.520,No more problem
+2015-03-02 03:45:31.536,Problem found: Very cloudy
+2015-03-02 03:45:31.567,Problem found: Very cloudy
+2015-03-02 03:46:04.741,CLOSE message sent successfully
+2015-03-02 03:46:04.898,Starts to close the roof (currently Opened).
+2015-03-02 03:46:19.950,No more problem
+2015-03-02 03:46:19.981,Roof CLOSING
+2015-03-02 03:46:26.185,Roof CLOSING
+2015-03-02 03:46:26.685,Problem found: Very cloudy
+2015-03-02 03:46:26.716,Problem found: Very cloudy
+2015-03-02 03:47:07.923,No more problem
+2015-03-02 03:47:07.954,Roof CLOSING
+2015-03-02 03:47:08.970,Roof CLOSING
+2015-03-02 03:47:09.454,Problem found: Very cloudy
+2015-03-02 03:47:09.470,Problem found: Very cloudy
+2015-03-02 03:47:15.548,No more problem
+2015-03-02 03:47:15.580,Roof CLOSING
+2015-03-02 03:47:16.095,Roof CLOSING
+2015-03-02 03:47:16.580,Problem found: Very cloudy
+2015-03-02 03:47:16.611,Problem found: Very cloudy
+2015-03-02 03:47:51.801,No more problem
+2015-03-02 03:47:51.832,Roof CLOSING
+2015-03-02 03:47:52.848,Roof CLOSING
+2015-03-02 03:47:53.348,Problem found: Very cloudy
+2015-03-02 03:47:53.364,Problem found: Very cloudy
+2015-03-02 04:09:15.303,No more problem
+2015-03-02 04:09:20.694,Problem found: Very cloudy
+2015-03-02 04:09:20.709,Problem found: Very cloudy
+2015-03-02 04:09:49.515,No more problem
+2015-03-02 04:09:50.625,Problem found: Very cloudy
+2015-03-02 04:09:50.640,Problem found: Very cloudy
+2015-03-02 04:09:58.391,No more problem
+2015-03-02 04:10:01.313,Problem found: Very cloudy
+2015-03-02 04:10:01.329,Problem found: Very cloudy
+2015-03-02 04:10:13.486,No more problem
+2015-03-02 04:10:15.455,Problem found: Very cloudy
+2015-03-02 04:10:15.470,Problem found: Very cloudy
+2015-03-02 04:11:02.802,No more problem
+2015-03-02 04:26:01.730,Decide to OPEN
+2015-03-02 04:26:01.745,OPEN message sent successfully
+2015-03-02 04:26:02.402,Decide to OPEN
+2015-03-02 04:26:02.417,OPEN message sent successfully
+2015-03-02 04:26:03.073,Roof OPENING
+2015-03-02 04:26:06.808,Roof OPENING
+2015-03-02 04:26:07.324,Decide to OPEN
+2015-03-02 04:26:07.339,OPEN message sent successfully
+2015-03-02 04:26:07.996,Roof OPENING
+2015-03-02 04:28:04.496,Roof OPENING
+2015-03-02 04:54:17.182,DAWN
+2015-03-02 05:08:15.423,Problem found: Very cloudy
+2015-03-02 05:08:15.454,Problem found: Very cloudy
+2015-03-02 05:08:32.236,No more problem
+2015-03-02 05:08:33.799,Problem found: Very cloudy
+2015-03-02 05:08:33.830,Problem found: Very cloudy
+2015-03-02 05:08:38.409,No more problem
+2015-03-02 05:08:40.916,Problem found: Very cloudy
+2015-03-02 05:08:40.947,Problem found: Very cloudy
+2015-03-02 05:09:08.809,No more problem
+2015-03-02 05:09:12.356,Problem found: Very cloudy
+2015-03-02 05:09:12.387,Problem found: Very cloudy
+2015-03-02 05:09:13.418,CLOSE message sent successfully
+2015-03-02 05:09:13.575,Starts to close the roof (currently Opened).
+2015-03-02 05:11:32.221,Problem found: Very cloudy
+2015-03-02 05:11:42.999,Problem found: Very cloudy
+2015-03-02 05:11:53.859,Problem found: Very cloudy
+2015-03-02 05:12:04.470,Problem found: Very cloudy
+2015-03-02 05:12:15.345,Problem found: Very cloudy
+2015-03-02 05:12:46.015,Problem found: Very cloudy
+2015-03-02 05:13:18.595,Problem found: Very cloudy
+2015-03-02 05:13:50.984,Problem found: Very cloudy
+2015-03-02 05:14:23.158,Problem found: Very cloudy
+2015-03-02 05:14:55.453,Problem found: Very cloudy
+2015-03-02 05:15:57.813,Problem found: Very cloudy
+2015-03-02 05:16:37.986,Problem found: Very cloudy
+2015-03-02 05:17:11.657,Problem found: Very cloudy
+2015-03-02 05:17:55.252,Problem found: Very cloudy
+2015-03-02 05:18:28.532,Problem found: Very cloudy
+2015-03-02 05:19:08.408,Problem found: Very cloudy
+2015-03-02 05:19:51.422,Problem found: Very cloudy
+2015-03-02 05:20:34.657,Problem found: Very cloudy
+2015-03-02 05:21:19.737,Problem found: Very cloudy
+2015-03-02 05:22:04.767,Problem found: Very cloudy
+2015-03-02 05:22:43.502,Problem found: Very cloudy
+2015-03-02 05:23:21.970,Problem found: Very cloudy
+2015-03-02 05:23:56.033,No more problem
+2015-03-02 05:25:08.888,Problem found: Very cloudy
+2015-03-02 05:25:08.920,Problem found: Very cloudy
+2015-03-02 05:26:09.452,No more problem
+2015-03-02 05:38:23.089,DAY
+2015-03-02 05:40:14.838,Problem found: Very cloudy
+2015-03-02 05:40:14.854,Problem found: Very cloudy
+2015-03-02 05:40:19.416,No more problem
+2015-03-02 05:40:30.589,Problem found: Very cloudy
+2015-03-02 05:40:30.620,Problem found: Very cloudy
+2015-03-02 05:40:38.199,No more problem
+2015-03-02 05:41:42.345,Problem found: Very cloudy
+2015-03-02 05:41:42.360,Problem found: Very cloudy
+2015-03-02 05:41:43.892,No more problem
+2015-03-02 05:43:35.410,Problem found: Very cloudy
+2015-03-02 05:43:35.425,Problem found: Very cloudy
+2015-03-02 05:43:47.558,No more problem
+2015-03-02 05:44:03.153,Problem found: Very cloudy
+2015-03-02 05:44:03.169,Problem found: Very cloudy
+2015-03-02 05:44:24.546,No more problem
+2015-03-02 05:44:33.062,Problem found: Very cloudy
+2015-03-02 05:44:33.078,Problem found: Very cloudy
+2015-03-02 05:44:37.640,No more problem
+2015-03-02 05:44:51.813,Problem found: Very cloudy
+2015-03-02 05:44:51.829,Problem found: Very cloudy
+2015-03-02 05:44:57.908,No more problem
+2015-03-02 05:45:00.939,Problem found: Very cloudy
+2015-03-02 05:45:00.955,Problem found: Very cloudy
+2015-03-02 05:45:04.142,No more problem
+2015-03-02 05:45:07.658,Problem found: Very cloudy
+2015-03-02 05:45:07.674,Problem found: Very cloudy
+2015-03-02 05:53:10.621,No more problem
+2015-03-02 05:53:14.637,Problem found: Very cloudy
+2015-03-02 05:53:14.653,Problem found: Very cloudy
+2015-03-02 05:53:31.357,No more problem
+2015-03-02 05:53:35.373,Problem found: Very cloudy
+2015-03-02 05:53:35.389,Problem found: Very cloudy
+2015-03-02 05:53:42.983,No more problem
+2015-03-02 05:53:45.999,Problem found: Very cloudy
+2015-03-02 05:53:46.015,Problem found: Very cloudy
+2015-03-02 05:54:10.611,No more problem
+2015-03-02 05:54:12.126,Problem found: Very cloudy
+2015-03-02 05:54:12.142,Problem found: Very cloudy
+2015-03-02 05:55:03.915,No more problem
+2015-03-02 05:55:04.431,Problem found: Very cloudy
+2015-03-02 05:55:04.447,Problem found: Very cloudy
+2015-03-02 05:58:25.429,No more problem
+2015-03-02 05:58:26.445,Problem found: Very cloudy
+2015-03-02 05:58:26.461,Problem found: Very cloudy
+2015-03-02 05:58:34.086,No more problem
+2015-03-02 05:58:49.103,Problem found: Very cloudy
+2015-03-02 05:58:49.119,Problem found: Very cloudy
+2015-03-02 05:59:04.573,No more problem
+2015-03-02 05:59:34.622,Problem found: Very cloudy
+2015-03-02 05:59:34.638,Problem found: Very cloudy
+2015-03-02 05:59:39.364,No more problem
+2015-03-02 05:59:41.380,Problem found: Very cloudy
+2015-03-02 05:59:41.395,Problem found: Very cloudy
+2015-03-02 05:59:47.474,No more problem
+2015-03-02 06:00:23.133,Problem found: Very cloudy
+2015-03-02 06:00:23.149,Problem found: Very cloudy
+2015-03-02 06:00:55.151,No more problem
+2015-03-02 06:01:06.886,Problem found: Very cloudy
+2015-03-02 06:01:06.902,Problem found: Very cloudy
+2015-03-02 06:01:25.114,No more problem
+2015-03-02 06:01:48.772,Problem found: Very cloudy
+2015-03-02 06:01:48.787,Problem found: Very cloudy
+2015-03-02 06:02:00.929,No more problem
+2015-03-02 06:02:35.619,Problem found: Very cloudy
+2015-03-02 06:02:35.635,Problem found: Very cloudy
+2015-03-02 06:03:01.418,No more problem
+2015-03-02 06:03:05.575,Problem found: Very cloudy
+2015-03-02 06:03:05.590,Problem found: Very cloudy
+2015-03-02 06:05:59.055,No more problem
+2015-03-02 06:06:01.587,Problem found: Very cloudy
+2015-03-02 06:06:01.602,Problem found: Very cloudy
+2015-03-02 06:06:16.932,No more problem
+2015-03-02 06:06:19.447,Problem found: Very cloudy
+2015-03-02 06:06:19.463,Problem found: Very cloudy
+2015-03-02 06:06:36.199,No more problem
+2015-03-02 06:06:40.215,Problem found: Very cloudy
+2015-03-02 06:06:40.230,Problem found: Very cloudy
+2015-03-02 06:07:51.761,No more problem
+2015-03-02 06:07:57.339,Problem found: Very cloudy
+2015-03-02 06:07:57.355,Problem found: Very cloudy
+2015-03-02 06:08:05.090,No more problem
+2015-03-02 06:08:06.184,Problem found: Very cloudy
+2015-03-02 06:08:06.200,Problem found: Very cloudy
+2015-03-02 06:09:02.820,No more problem
+2015-03-02 06:09:05.399,Problem found: Very cloudy
+2015-03-02 06:09:05.414,Problem found: Very cloudy
+2015-03-02 06:11:45.287,No more problem
+2015-03-02 06:11:47.802,Problem found: Very cloudy
+2015-03-02 06:11:47.818,Problem found: Very cloudy
+2015-03-02 06:35:45.869,No more problem
+2015-03-02 06:35:48.385,Problem found: Very cloudy
+2015-03-02 06:35:48.401,Problem found: Very cloudy
+2015-03-02 06:35:52.963,No more problem
+2015-03-02 06:35:57.479,Problem found: Very cloudy
+2015-03-02 06:35:57.495,Problem found: Very cloudy
+2015-03-02 06:36:02.058,No more problem
+2015-03-02 07:45:44.298,Problem found: Very cloudy
+2015-03-02 07:45:44.314,Problem found: Very cloudy
+2015-03-02 07:45:56.456,No more problem
+2015-03-02 07:46:03.706,Problem found: Very cloudy
+2015-03-02 07:46:03.722,Problem found: Very cloudy
+2015-03-02 07:46:22.067,No more problem
+2015-03-02 07:46:31.646,Problem found: Very cloudy
+2015-03-02 07:46:31.661,Problem found: Very cloudy
+2015-03-02 07:46:40.771,No more problem
+2015-03-02 07:46:43.787,Problem found: Very cloudy
+2015-03-02 07:46:43.803,Problem found: Very cloudy
+2015-03-02 07:47:14.140,No more problem
+2015-03-02 07:47:16.672,Problem found: Very cloudy
+2015-03-02 07:47:16.687,Problem found: Very cloudy
+2015-03-02 12:14:09.376,No more problem
+2015-03-02 12:14:10.892,Problem found: Very cloudy
+2015-03-02 12:14:10.907,Problem found: Very cloudy
+2015-03-02 12:14:55.239,No more problem
+2015-03-02 12:14:57.755,Problem found: Very cloudy
+2015-03-02 12:14:57.770,Problem found: Very cloudy
+2015-03-02 12:14:59.302,No more problem
+2015-03-02 12:15:02.818,Problem found: Very cloudy
+2015-03-02 12:15:02.833,Problem found: Very cloudy
+2015-03-02 12:16:29.512,No more problem
+2015-03-02 12:16:31.622,Problem found: Very cloudy
+2015-03-02 12:16:31.637,Problem found: Very cloudy
+2015-03-02 12:17:28.599,No more problem
+2015-03-02 12:17:29.614,Problem found: Very cloudy
+2015-03-02 12:17:29.630,Problem found: Very cloudy
+2015-03-02 12:17:41.772,No more problem
+2015-03-02 12:17:45.287,Problem found: Very cloudy
+2015-03-02 12:17:45.303,Problem found: Very cloudy
+2015-03-02 12:18:06.624,No more problem
+2015-03-02 12:18:09.640,Problem found: Very cloudy
+2015-03-02 12:18:09.656,Problem found: Very cloudy
+2015-03-02 12:18:26.485,No more problem
+2015-03-02 12:18:29.001,Problem found: Very cloudy
+2015-03-02 12:18:29.017,Problem found: Very cloudy
+2015-03-02 12:18:30.548,No more problem
+2015-03-02 12:18:34.064,Problem found: Very cloudy
+2015-03-02 12:18:34.079,Problem found: Very cloudy
+2015-03-02 12:18:38.642,No more problem
+2015-03-02 12:18:41.158,Problem found: Very cloudy
+2015-03-02 12:18:41.174,Problem found: Very cloudy
+2015-03-02 12:18:50.425,No more problem
+2015-03-02 12:18:56.441,Problem found: Very cloudy
+2015-03-02 12:18:56.456,Problem found: Very cloudy
+2015-03-02 12:19:05.707,No more problem
+2015-03-02 12:19:10.723,Problem found: Very cloudy
+2015-03-02 12:19:10.739,Problem found: Very cloudy
+2015-03-02 12:19:15.301,No more problem
+2015-03-02 12:19:34.819,Problem found: Very cloudy
+2015-03-02 12:19:34.834,Problem found: Very cloudy
+2015-03-02 12:19:45.460,No more problem
+2015-03-02 12:19:54.148,Problem found: Very cloudy
+2015-03-02 12:19:54.164,Problem found: Very cloudy
+2015-03-02 12:20:10.853,No more problem
+2015-03-02 12:20:11.368,Problem found: Very cloudy
+2015-03-02 12:20:11.384,Problem found: Very cloudy
+2015-03-02 12:20:15.947,No more problem
+2015-03-02 12:20:21.963,Problem found: Very cloudy
+2015-03-02 12:20:21.979,Problem found: Very cloudy
+2015-03-02 12:20:31.089,No more problem
+2015-03-02 12:20:34.104,Problem found: Very cloudy
+2015-03-02 12:20:34.120,Problem found: Very cloudy
+2015-03-02 12:20:40.292,No more problem
+2015-03-02 12:20:42.808,Problem found: Very cloudy
+2015-03-02 12:20:42.824,Problem found: Very cloudy
+2015-03-02 12:20:47.387,No more problem
+2015-03-02 12:20:51.450,Problem found: Very cloudy
+2015-03-02 12:20:51.465,Problem found: Very cloudy
+2015-03-02 12:22:24.363,No more problem
+2015-03-02 12:22:27.879,Problem found: Very cloudy
+2015-03-02 12:22:27.895,Problem found: Very cloudy
+2015-03-02 12:22:53.818,No more problem
+2015-03-02 12:23:16.343,Problem found: Very cloudy
+2015-03-02 12:23:16.358,Problem found: Very cloudy
+2015-03-02 12:24:14.254,No more problem
+2015-03-02 12:24:54.507,Problem found: Very cloudy
+2015-03-02 12:24:54.522,Problem found: Very cloudy
+2015-03-02 12:25:00.601,No more problem
+2015-03-02 12:25:06.617,Problem found: Very cloudy
+2015-03-02 12:25:06.633,Problem found: Very cloudy
+2015-03-02 12:25:23.321,No more problem
+2015-03-02 12:25:27.337,Problem found: Very cloudy
+2015-03-02 12:25:27.353,Problem found: Very cloudy
+2015-03-02 12:25:51.902,No more problem
+2015-03-02 12:25:55.418,Problem found: Very cloudy
+2015-03-02 12:25:55.433,Problem found: Very cloudy
+2015-03-02 12:26:37.890,No more problem
+2015-03-02 12:26:50.969,Problem found: Very cloudy
+2015-03-02 12:26:50.985,Problem found: Very cloudy
+2015-03-02 12:26:57.063,No more problem
+2015-03-02 12:27:03.079,Problem found: Very cloudy
+2015-03-02 12:27:03.095,Problem found: Very cloudy
+2015-03-02 12:27:06.142,No more problem
+2015-03-02 12:27:41.801,Problem found: Very cloudy
+2015-03-02 12:27:41.817,Problem found: Very cloudy
+2015-03-02 12:27:54.099,No more problem
+2015-03-02 12:27:57.115,Problem found: Very cloudy
+2015-03-02 12:27:57.130,Problem found: Very cloudy
+2015-03-02 12:28:04.719,No more problem
+2015-03-02 12:32:18.462,Problem found: Very cloudy
+2015-03-02 12:32:18.478,Problem found: Very cloudy
+2015-03-02 12:32:42.870,No more problem
+2015-03-02 12:32:44.386,Problem found: Very cloudy
+2015-03-02 12:32:44.401,Problem found: Very cloudy
+2015-03-02 12:33:19.427,No more problem
+2015-03-02 12:33:24.443,Problem found: Very cloudy
+2015-03-02 12:33:24.458,Problem found: Very cloudy
+2015-03-02 12:33:38.116,No more problem
+2015-03-02 12:34:20.166,Problem found: Very cloudy
+2015-03-02 12:34:20.181,Problem found: Very cloudy
+2015-03-02 12:34:24.744,No more problem
+2015-03-02 12:34:56.825,Problem found: Very cloudy
+2015-03-02 12:34:56.841,Problem found: Very cloudy
+2015-03-02 12:35:05.951,No more problem
+2015-03-02 12:35:12.467,Problem found: Very cloudy
+2015-03-02 12:35:12.482,Problem found: Very cloudy
+2015-03-02 12:35:18.561,No more problem
+2015-03-02 12:35:30.078,Problem found: Very cloudy
+2015-03-02 12:35:30.093,Problem found: Very cloudy
+2015-03-02 12:35:40.860,No more problem
+2015-03-02 12:35:42.375,Problem found: Very cloudy
+2015-03-02 12:35:42.391,Problem found: Very cloudy
+2015-03-02 12:35:53.142,No more problem
+2015-03-02 12:35:54.158,Problem found: Very cloudy
+2015-03-02 12:35:54.173,Problem found: Very cloudy
+2015-03-02 12:36:01.768,No more problem
+2015-03-02 12:36:18.784,Problem found: Very cloudy
+2015-03-02 12:36:18.800,Problem found: Very cloudy
+2015-03-02 12:36:23.363,No more problem
+2015-03-02 12:36:53.584,Problem found: Very cloudy
+2015-03-02 12:36:53.600,Problem found: Very cloudy
+2015-03-02 12:36:59.850,No more problem
+2015-03-02 12:37:05.882,Problem found: Very cloudy
+2015-03-02 12:37:05.898,Problem found: Very cloudy
+2015-03-02 12:37:11.961,No more problem
+2015-03-02 12:37:14.976,Problem found: Very cloudy
+2015-03-02 12:37:14.992,Problem found: Very cloudy
+2015-03-02 12:37:21.211,No more problem
+2015-03-02 12:38:03.315,Problem found: Very cloudy
+2015-03-02 12:38:03.331,Problem found: Very cloudy
+2015-03-02 12:38:11.081,No more problem
+2015-03-02 12:40:21.279,Problem found: Very cloudy
+2015-03-02 12:40:21.295,Problem found: Very cloudy
+2015-03-02 12:40:30.592,No more problem
+2015-03-02 12:41:34.285,Problem found: Very cloudy
+2015-03-02 12:41:34.300,Problem found: Very cloudy
+2015-03-02 12:41:38.863,No more problem
+2015-03-02 12:42:14.522,Problem found: Very cloudy
+2015-03-02 12:42:14.538,Problem found: Very cloudy
+2015-03-02 12:42:20.757,No more problem
+2015-03-02 12:45:03.186,Problem found: Very cloudy
+2015-03-02 12:45:03.201,Problem found: Very cloudy
+2015-03-02 12:45:12.311,No more problem
+2015-03-02 12:45:29.328,Problem found: Very cloudy
+2015-03-02 12:45:29.344,Problem found: Very cloudy
+2015-03-02 12:45:36.938,No more problem
+2015-03-02 12:45:48.517,Problem found: Very cloudy
+2015-03-02 12:45:48.533,Problem found: Very cloudy
+2015-03-02 12:45:53.096,No more problem
+2015-03-02 12:45:57.612,Problem found: Very cloudy
+2015-03-02 12:45:57.627,Problem found: Very cloudy
+2015-03-02 12:46:06.737,No more problem
+2015-03-02 12:46:09.753,Problem found: Very cloudy
+2015-03-02 12:46:09.784,Problem found: Very cloudy
+2015-03-02 12:46:14.332,No more problem
+2015-03-02 12:46:37.662,Problem found: Very cloudy
+2015-03-02 12:46:37.677,Problem found: Very cloudy
+2015-03-02 12:46:43.756,No more problem
+2015-03-02 12:46:53.272,Problem found: Very cloudy
+2015-03-02 12:46:53.288,Problem found: Very cloudy
+2015-03-02 12:47:11.633,No more problem
+2015-03-02 12:47:14.140,Problem found: Very cloudy
+2015-03-02 12:47:14.156,Problem found: Very cloudy
+2015-03-02 12:47:20.297,No more problem
+2015-03-02 12:47:22.813,Problem found: Very cloudy
+2015-03-02 12:47:22.828,Problem found: Very cloudy
+2015-03-02 12:47:44.064,No more problem
+2015-03-02 12:47:47.580,Problem found: Very cloudy
+2015-03-02 12:47:47.596,Problem found: Very cloudy
+2015-03-02 12:47:55.190,No more problem
+2015-03-02 12:47:56.222,Problem found: Very cloudy
+2015-03-02 12:47:56.237,Problem found: Very cloudy
+2015-03-02 12:48:10.011,No more problem
+2015-03-02 12:48:12.027,Problem found: Very cloudy
+2015-03-02 12:48:12.042,Problem found: Very cloudy
+2015-03-02 12:48:36.310,No more problem
+2015-03-02 12:48:43.326,Problem found: Very cloudy
+2015-03-02 12:48:43.342,Problem found: Very cloudy
+2015-03-02 12:49:35.017,No more problem
+2015-03-02 12:49:41.034,Problem found: Very cloudy
+2015-03-02 12:49:41.049,Problem found: Very cloudy
+2015-03-02 12:50:42.116,No more problem
+2015-03-02 12:50:45.632,Problem found: Very cloudy
+2015-03-02 12:50:45.648,Problem found: Very cloudy
+2015-03-02 12:50:51.727,No more problem
+2015-03-02 12:50:57.836,Problem found: Very cloudy
+2015-03-02 12:50:57.852,Problem found: Very cloudy
+2015-03-02 12:51:09.994,No more problem
+2015-03-02 12:51:12.009,Problem found: Very cloudy
+2015-03-02 12:51:12.025,Problem found: Very cloudy
+2015-03-02 12:51:34.824,No more problem
+2015-03-02 12:51:52.341,Problem found: Very cloudy
+2015-03-02 12:51:52.356,Problem found: Very cloudy
+2015-03-02 12:51:59.982,No more problem
+2015-03-02 12:52:14.999,Problem found: Very cloudy
+2015-03-02 12:52:15.014,Problem found: Very cloudy
+2015-03-02 12:52:28.828,No more problem
+2015-03-02 12:52:35.844,Problem found: Very cloudy
+2015-03-02 12:52:35.860,Problem found: Very cloudy
+2015-03-02 12:52:40.423,No more problem
+2015-03-02 12:52:44.439,Problem found: Very cloudy
+2015-03-02 12:52:44.454,Problem found: Very cloudy
+2015-03-02 12:52:49.017,No more problem
+2015-03-02 12:53:17.636,Problem found: Very cloudy
+2015-03-02 12:53:17.651,Problem found: Very cloudy
+2015-03-02 12:53:29.793,No more problem
+2015-03-02 12:53:33.309,Problem found: Very cloudy
+2015-03-02 12:53:33.324,Problem found: Very cloudy
+2015-03-02 12:53:37.887,No more problem
+2015-03-02 12:53:48.904,Problem found: Very cloudy
+2015-03-02 12:53:48.919,Problem found: Very cloudy
+2015-03-02 12:53:53.482,No more problem
+2015-03-02 12:55:26.802,Problem found: Very cloudy
+2015-03-02 12:55:26.818,Problem found: Very cloudy
+2015-03-02 12:55:35.928,No more problem
+2015-03-02 12:58:39.811,Problem found: Very cloudy
+2015-03-02 12:58:39.826,Problem found: Very cloudy
+2015-03-02 12:58:51.968,No more problem
+2015-03-02 12:58:57.562,Problem found: Very cloudy
+2015-03-02 12:58:57.578,Problem found: Very cloudy
+2015-03-02 12:59:05.313,No more problem
+2015-03-02 13:00:29.522,Problem found: Very cloudy
+2015-03-02 13:00:29.538,Problem found: Very cloudy
+2015-03-02 13:00:35.617,No more problem
+2015-03-02 13:00:41.758,Problem found: Very cloudy
+2015-03-02 13:00:41.773,Problem found: Very cloudy
+2015-03-02 13:00:47.852,No more problem
+2015-03-02 13:00:50.868,Problem found: Very cloudy
+2015-03-02 13:00:50.883,Problem found: Very cloudy
+2015-03-02 13:01:01.619,No more problem
+2015-03-02 13:01:09.635,Problem found: Very cloudy
+2015-03-02 13:01:09.651,Problem found: Very cloudy
+2015-03-02 13:01:18.761,No more problem
+2015-03-02 13:01:55.404,Problem found: Very cloudy
+2015-03-02 13:01:55.420,Problem found: Very cloudy
+2015-03-02 13:02:03.014,No more problem
+2015-03-02 13:02:52.640,Problem found: Very cloudy
+2015-03-02 13:02:52.655,Problem found: Very cloudy
+2015-03-02 13:02:57.359,No more problem
+2015-03-02 13:03:08.367,Problem found: Very cloudy
+2015-03-02 13:03:08.382,Problem found: Very cloudy
+2015-03-02 13:03:16.086,No more problem
+2015-03-02 13:09:47.139,Problem found: Very cloudy
+2015-03-02 13:09:47.155,Problem found: Very cloudy
+2015-03-02 13:09:50.296,No more problem
+2015-03-02 13:31:20.294,Problem found: Very cloudy
+2015-03-02 13:31:20.309,Problem found: Very cloudy
+2015-03-02 13:31:24.872,No more problem
+2015-03-02 15:31:40.664,Problem found: Very cloudy
+2015-03-02 15:31:40.696,Problem found: Very cloudy
+2015-03-02 15:31:48.313,No more problem
+2015-03-02 15:35:15.454,Problem found: Very cloudy
+2015-03-02 15:35:15.469,Problem found: Very cloudy
+2015-03-02 15:35:42.831,No more problem
+2015-03-02 15:35:50.878,Problem found: Very cloudy
+2015-03-02 15:35:50.894,Problem found: Very cloudy
+2015-03-02 15:36:28.881,No more problem
+2015-03-02 15:36:32.413,Problem found: Very cloudy
+2015-03-02 15:36:32.444,Problem found: Very cloudy
+2015-03-02 15:36:38.507,No more problem
+2015-03-02 15:36:46.664,Problem found: Very cloudy
+2015-03-02 15:36:46.680,Problem found: Very cloudy
+2015-03-02 15:37:04.875,No more problem
+2015-03-02 15:37:07.923,Problem found: Very cloudy
+2015-03-02 15:37:07.938,Problem found: Very cloudy
+2015-03-02 15:37:17.033,No more problem
+2015-03-02 15:37:59.708,Problem found: Very cloudy
+2015-03-02 15:37:59.723,Problem found: Very cloudy
+2015-03-02 15:38:04.286,No more problem
+2015-03-02 15:38:06.818,Problem found: Very cloudy
+2015-03-02 15:38:06.833,Problem found: Very cloudy
+2015-03-02 15:38:08.380,No more problem
+2015-03-02 15:38:15.897,Problem found: Very cloudy
+2015-03-02 15:38:15.912,Problem found: Very cloudy
+2015-03-02 15:38:21.991,No more problem
+2015-03-02 15:38:24.507,Problem found: Very cloudy
+2015-03-02 15:38:24.522,Problem found: Very cloudy
+2015-03-02 15:38:30.601,No more problem
+2015-03-02 15:39:15.854,Problem found: Very cloudy
+2015-03-02 15:39:15.870,Problem found: Very cloudy
+2015-03-02 15:39:35.575,No more problem
+2015-03-02 15:39:37.090,Problem found: Very cloudy
+2015-03-02 15:39:37.106,Problem found: Very cloudy
+2015-03-02 15:39:44.700,No more problem
+2015-03-02 15:44:52.263,Problem found: Very cloudy
+2015-03-02 15:44:52.278,Problem found: Very cloudy
+2015-03-02 15:44:59.904,No more problem
+2015-03-02 15:45:01.435,Problem found: Very cloudy
+2015-03-02 15:45:01.451,Problem found: Very cloudy
+2015-03-02 15:45:15.124,No more problem
+2015-03-02 15:45:17.655,Problem found: Very cloudy
+2015-03-02 15:45:17.671,Problem found: Very cloudy
+2015-03-02 15:45:35.875,No more problem
+2015-03-02 15:45:38.891,Problem found: Very cloudy
+2015-03-02 15:45:38.907,Problem found: Very cloudy
+2015-03-02 15:45:51.048,No more problem
+2015-03-02 15:46:25.192,Problem found: Very cloudy
+2015-03-02 15:46:25.207,Problem found: Very cloudy
+2015-03-02 15:47:22.938,No more problem
+2015-03-02 15:47:35.032,Problem found: Very cloudy
+2015-03-02 15:47:35.048,Problem found: Very cloudy
+2015-03-02 15:47:39.626,No more problem
+2015-03-02 15:47:47.674,Problem found: Very cloudy
+2015-03-02 15:47:47.689,Problem found: Very cloudy
+2015-03-02 15:47:49.221,No more problem
+2015-03-02 15:47:56.753,Problem found: Very cloudy
+2015-03-02 15:47:56.784,Problem found: Very cloudy
+2015-03-02 15:48:02.847,No more problem
+2015-03-02 15:52:30.929,Problem found: Very cloudy
+2015-03-02 15:52:30.944,Problem found: Very cloudy
+2015-03-02 15:52:35.507,No more problem
+2015-03-02 15:53:51.216,Problem found: Very cloudy
+2015-03-02 15:53:51.232,Problem found: Very cloudy
+2015-03-02 15:53:55.795,No more problem
+2015-03-02 15:53:59.842,Problem found: Very cloudy
+2015-03-02 15:53:59.858,Problem found: Very cloudy
+2015-03-02 15:54:07.452,No more problem
+2015-03-02 15:54:18.031,Problem found: Very cloudy
+2015-03-02 15:54:18.046,Problem found: Very cloudy
+2015-03-02 15:54:28.704,No more problem
+2015-03-02 15:54:30.235,Problem found: Very cloudy
+2015-03-02 15:54:30.251,Problem found: Very cloudy
+2015-03-02 15:54:34.829,No more problem
+2015-03-02 15:56:21.369,Problem found: Very cloudy
+2015-03-02 15:56:21.384,Problem found: Very cloudy
+2015-03-02 15:56:24.431,No more problem
+2015-03-02 16:01:57.339,Problem found: Very cloudy
+2015-03-02 16:01:57.355,Problem found: Very cloudy
+2015-03-02 16:02:15.544,No more problem
+2015-03-02 16:02:18.560,Problem found: Very cloudy
+2015-03-02 16:02:18.591,Problem found: Very cloudy
+2015-03-02 16:02:23.154,No more problem
+2015-03-02 16:02:25.695,Problem found: Very cloudy
+2015-03-02 16:02:25.726,Problem found: Very cloudy
+2015-03-02 16:02:34.820,No more problem
+2015-03-02 16:02:43.352,Problem found: Very cloudy
+2015-03-02 16:02:43.368,Problem found: Very cloudy
+2015-03-02 16:02:46.415,No more problem
+2015-03-02 16:07:55.899,Problem found: Very cloudy
+2015-03-02 16:07:55.915,Problem found: Very cloudy
+2015-03-02 16:08:05.041,No more problem
+2015-03-02 16:08:08.088,Problem found: Very cloudy
+2015-03-02 16:08:08.103,Problem found: Very cloudy
+2015-03-02 16:08:11.166,No more problem
+2015-03-02 16:08:13.729,Problem found: Very cloudy
+2015-03-02 16:08:13.744,Problem found: Very cloudy
+2015-03-02 16:08:18.307,No more problem
+2015-03-02 16:08:22.370,Problem found: Very cloudy
+2015-03-02 16:08:22.386,Problem found: Very cloudy
+2015-03-02 16:08:39.106,No more problem
+2015-03-02 16:08:43.622,Problem found: Very cloudy
+2015-03-02 16:08:43.653,Problem found: Very cloudy
+2015-03-02 16:10:10.363,No more problem
+2015-03-02 16:11:34.854,Problem found: Very cloudy
+2015-03-02 16:11:34.869,Problem found: Very cloudy
+2015-03-02 16:11:39.432,No more problem
+2015-03-02 16:11:41.964,Problem found: Very cloudy
+2015-03-02 16:11:41.979,Problem found: Very cloudy
+2015-03-02 16:11:45.026,No more problem
+2015-03-02 19:20:22.349,DUSK
+2015-03-02 19:24:05.834,Decide to OPEN
+2015-03-02 19:24:05.866,OPEN message sent successfully
+2015-03-02 19:24:06.522,Roof OPENING
+2015-03-02 19:24:09.710,Roof OPENING
+2015-03-02 19:24:10.257,Decide to OPEN
+2015-03-02 19:24:10.272,OPEN message sent successfully
+2015-03-02 19:24:10.944,Roof OPENING
+2015-03-02 19:26:06.726,Roof OPENING
+2015-03-02 20:06:46.757,NIGHT
+2015-03-03 04:53:16.304,DAWN
+2015-03-03 05:38:15.684,DAY
+2015-03-03 05:38:15.840,CLOSE message sent successfully
+2015-03-03 05:38:15.996,Starts to close the roof (currently Opened).
+2015-03-03 12:38:40.615,Problem found: Very cloudy
+2015-03-03 12:38:40.630,Problem found: Very cloudy
+2015-03-03 12:38:48.224,No more problem
+2015-03-03 12:39:08.273,Problem found: Very cloudy
+2015-03-03 12:39:08.289,Problem found: Very cloudy
+2015-03-03 12:39:14.508,No more problem
+2015-03-03 12:39:32.525,Problem found: Very cloudy
+2015-03-03 12:39:32.540,Problem found: Very cloudy
+2015-03-03 12:39:37.103,No more problem
+2015-03-03 12:39:41.619,Problem found: Very cloudy
+2015-03-03 12:39:41.635,Problem found: Very cloudy
+2015-03-03 12:39:44.698,No more problem
+2015-03-03 12:41:50.129,Problem found: Very cloudy
+2015-03-03 12:41:50.145,Problem found: Very cloudy
+2015-03-03 12:41:54.708,No more problem
+2015-03-03 12:47:13.911,Problem found: Very cloudy
+2015-03-03 12:47:13.927,Problem found: Very cloudy
+2015-03-03 12:47:33.788,No more problem
+2015-03-03 12:47:45.305,Problem found: Very cloudy
+2015-03-03 12:47:45.320,Problem found: Very cloudy
+2015-03-03 12:47:54.430,No more problem
+2015-03-03 12:47:57.446,Problem found: Very cloudy
+2015-03-03 12:47:57.477,Problem found: Very cloudy
+2015-03-03 12:48:06.572,No more problem
+2015-03-03 12:48:14.619,Problem found: Very cloudy
+2015-03-03 12:48:14.635,Problem found: Very cloudy
+2015-03-03 12:48:35.871,No more problem
+2015-03-03 12:48:42.381,Problem found: Very cloudy
+2015-03-03 12:48:42.397,Problem found: Very cloudy
+2015-03-03 12:48:46.959,No more problem
+2015-03-03 12:48:47.975,Problem found: Very cloudy
+2015-03-03 12:48:47.991,Problem found: Very cloudy
+2015-03-03 12:49:03.320,No more problem
+2015-03-03 12:49:06.836,Problem found: Very cloudy
+2015-03-03 12:49:06.852,Problem found: Very cloudy
+2015-03-03 12:49:16.102,No more problem
+2015-03-03 12:49:19.118,Problem found: Very cloudy
+2015-03-03 12:49:19.134,Problem found: Very cloudy
+2015-03-03 12:49:28.244,No more problem
+2015-03-03 12:50:02.481,Problem found: Very cloudy
+2015-03-03 12:50:02.497,Problem found: Very cloudy
+2015-03-03 12:50:05.544,No more problem
+2015-03-03 12:52:13.147,Problem found: Very cloudy
+2015-03-03 12:52:13.163,Problem found: Very cloudy
+2015-03-03 12:52:16.351,No more problem
+2015-03-03 13:29:59.025,Problem found: Very cloudy
+2015-03-03 13:29:59.025,Problem found: Very cloudy
+2015-03-03 13:30:00.572,Problem found: Very cloudy
+2015-03-03 13:30:03.604,No more problem
+2015-03-03 13:30:42.747,Problem found: Very cloudy
+2015-03-03 13:30:42.763,Problem found: Very cloudy
+2015-03-03 13:30:48.842,No more problem
+2015-03-03 13:30:54.858,Problem found: Very cloudy
+2015-03-03 13:30:54.873,Problem found: Very cloudy
+2015-03-03 13:31:00.952,No more problem
+2015-03-03 13:31:03.468,Problem found: Very cloudy
+2015-03-03 13:31:03.483,Problem found: Very cloudy
+2015-03-03 13:31:11.078,No more problem
+2015-03-03 13:31:14.094,Problem found: Very cloudy
+2015-03-03 13:31:14.109,Problem found: Very cloudy
+2015-03-03 13:31:20.188,No more problem
+2015-03-03 13:31:22.704,Problem found: Very cloudy
+2015-03-03 13:31:22.719,Problem found: Very cloudy
+2015-03-03 13:31:39.549,No more problem
+2015-03-03 13:31:43.565,Problem found: Very cloudy
+2015-03-03 13:31:43.580,Problem found: Very cloudy
+2015-03-03 13:31:55.722,No more problem
+2015-03-03 13:32:14.786,Problem found: Very cloudy
+2015-03-03 13:32:14.801,Problem found: Very cloudy
+2015-03-03 13:32:28.568,No more problem
+2015-03-03 13:33:03.587,Problem found: Very cloudy
+2015-03-03 13:33:03.602,Problem found: Very cloudy
+2015-03-03 13:33:06.649,No more problem
+2015-03-03 13:39:52.588,Problem found: Very cloudy
+2015-03-03 13:39:52.604,Problem found: Very cloudy
+2015-03-03 13:39:57.166,No more problem
+2015-03-03 13:40:20.199,Problem found: Very cloudy
+2015-03-03 13:40:20.215,Problem found: Very cloudy
+2015-03-03 13:40:26.481,No more problem
+2015-03-03 13:41:50.613,Problem found: Very cloudy
+2015-03-03 13:41:50.628,Problem found: Very cloudy
+2015-03-03 13:41:55.191,No more problem
+2015-03-03 13:42:06.208,Problem found: Very cloudy
+2015-03-03 13:42:06.223,Problem found: Very cloudy
+2015-03-03 13:42:10.786,No more problem
+2015-03-03 13:43:07.494,Problem found: Very cloudy
+2015-03-03 13:43:07.509,Problem found: Very cloudy
+2015-03-03 13:43:18.448,No more problem
+2015-03-03 13:43:47.466,Problem found: Very cloudy
+2015-03-03 13:43:47.481,Problem found: Very cloudy
+2015-03-03 13:43:52.044,No more problem
+2015-03-03 13:46:56.737,Problem found: Very cloudy
+2015-03-03 13:46:56.753,Problem found: Very cloudy
+2015-03-03 13:47:08.895,No more problem
+2015-03-03 13:47:42.085,Problem found: Very cloudy
+2015-03-03 13:47:42.100,Problem found: Very cloudy
+2015-03-03 13:47:46.663,No more problem
+2015-03-03 13:48:53.397,Problem found: Very cloudy
+2015-03-03 13:48:53.412,Problem found: Very cloudy
+2015-03-03 13:48:56.459,No more problem
+2015-03-03 13:49:14.601,Problem found: Very cloudy
+2015-03-03 13:49:14.617,Problem found: Very cloudy
+2015-03-03 13:49:20.680,No more problem
+2015-03-03 13:49:23.196,Problem found: Very cloudy
+2015-03-03 13:49:23.211,Problem found: Very cloudy
+2015-03-03 13:49:27.774,No more problem
+2015-03-03 13:49:30.290,Problem found: Very cloudy
+2015-03-03 13:49:30.306,Problem found: Very cloudy
+2015-03-03 13:49:39.416,No more problem
+2015-03-03 13:49:47.432,Problem found: Very cloudy
+2015-03-03 13:49:47.448,Problem found: Very cloudy
+2015-03-03 13:49:52.151,No more problem
+2015-03-03 13:49:57.667,Problem found: Very cloudy
+2015-03-03 13:49:57.683,Problem found: Very cloudy
+2015-03-03 13:50:12.856,No more problem
+2015-03-03 13:50:19.013,Problem found: Very cloudy
+2015-03-03 13:50:19.028,Problem found: Very cloudy
+2015-03-03 13:51:26.018,No more problem
+2015-03-03 13:51:28.534,Problem found: Very cloudy
+2015-03-03 13:51:28.549,Problem found: Very cloudy
+2015-03-03 13:51:57.505,No more problem
+2015-03-03 13:51:59.520,Problem found: Very cloudy
+2015-03-03 13:51:59.536,Problem found: Very cloudy
+2015-03-03 13:52:14.850,No more problem
+2015-03-03 13:52:23.975,Problem found: Very cloudy
+2015-03-03 13:52:23.991,Problem found: Very cloudy
+2015-03-03 13:52:39.164,No more problem
+2015-03-03 13:52:41.680,Problem found: Very cloudy
+2015-03-03 13:52:41.696,Problem found: Very cloudy
+2015-03-03 13:53:28.981,No more problem
+2015-03-03 13:53:33.997,Problem found: Very cloudy
+2015-03-03 13:53:34.012,Problem found: Very cloudy
+2015-03-03 13:53:41.638,No more problem
+2015-03-03 13:54:31.383,Problem found: Very cloudy
+2015-03-03 13:54:31.399,Problem found: Very cloudy
+2015-03-03 13:54:42.024,No more problem
+2015-03-03 13:54:55.588,Problem found: Very cloudy
+2015-03-03 13:54:55.604,Problem found: Very cloudy
+2015-03-03 13:55:12.292,No more problem
+2015-03-03 13:55:18.387,Problem found: Very cloudy
+2015-03-03 13:55:18.402,Problem found: Very cloudy
+2015-03-03 13:55:19.934,No more problem
+2015-03-03 13:55:23.450,Problem found: Very cloudy
+2015-03-03 13:55:23.465,Problem found: Very cloudy
+2015-03-03 13:55:31.059,No more problem
+2015-03-03 14:00:41.794,Problem found: Very cloudy
+2015-03-03 14:00:41.809,Problem found: Very cloudy
+2015-03-03 14:00:46.372,No more problem
+2015-03-03 14:00:46.888,Problem found: Very cloudy
+2015-03-03 14:00:46.904,Problem found: Very cloudy
+2015-03-03 14:02:28.849,No more problem
+2015-03-03 14:06:41.769,Problem found: Very cloudy
+2015-03-03 14:06:41.784,Problem found: Very cloudy
+2015-03-03 14:07:03.036,No more problem
+2015-03-03 14:09:39.040,Problem found: Very cloudy
+2015-03-03 14:09:39.055,Problem found: Very cloudy
+2015-03-03 14:12:12.739,No more problem
+2015-03-03 14:12:20.974,Problem found: Very cloudy
+2015-03-03 14:12:20.990,Problem found: Very cloudy
+2015-03-03 14:13:01.930,No more problem
+2015-03-03 14:41:07.015,Problem found: Very cloudy
+2015-03-03 14:41:07.030,Problem found: Very cloudy
+2015-03-03 14:41:11.593,No more problem
+2015-03-03 14:44:20.271,Problem found: Very cloudy
+2015-03-03 14:44:20.287,Problem found: Very cloudy
+2015-03-03 14:44:21.818,No more problem
+2015-03-03 14:44:40.835,Problem found: Very cloudy
+2015-03-03 14:44:40.851,Problem found: Very cloudy
+2015-03-03 14:44:50.102,No more problem
+2015-03-03 14:45:21.167,Problem found: Very cloudy
+2015-03-03 14:45:21.182,Problem found: Very cloudy
+2015-03-03 14:45:30.292,No more problem
+2015-03-03 14:45:36.808,Problem found: Very cloudy
+2015-03-03 14:45:36.824,Problem found: Very cloudy
+2015-03-03 14:45:55.169,No more problem
+2015-03-03 14:46:01.185,Problem found: Very cloudy
+2015-03-03 14:46:01.201,Problem found: Very cloudy
+2015-03-03 14:46:10.311,No more problem
+2015-03-03 14:46:27.375,Problem found: Very cloudy
+2015-03-03 14:46:27.391,Problem found: Very cloudy
+2015-03-03 14:46:38.173,No more problem
+2015-03-03 14:46:41.188,Problem found: Very cloudy
+2015-03-03 14:46:41.204,Problem found: Very cloudy
+2015-03-03 14:46:53.346,No more problem
+2015-03-03 14:47:17.894,Problem found: Very cloudy
+2015-03-03 14:47:17.910,Problem found: Very cloudy
+2015-03-03 14:47:30.177,No more problem
+2015-03-03 14:47:38.693,Problem found: Very cloudy
+2015-03-03 14:47:38.709,Problem found: Very cloudy
+2015-03-03 14:47:44.787,No more problem
+2015-03-03 15:06:10.203,Problem found: Very cloudy
+2015-03-03 15:06:10.219,Problem found: Very cloudy
+2015-03-03 15:06:19.469,No more problem
+2015-03-03 15:06:25.986,Problem found: Very cloudy
+2015-03-03 15:06:26.001,Problem found: Very cloudy
+2015-03-03 15:06:42.831,No more problem
+2015-03-03 15:06:43.346,Problem found: Very cloudy
+2015-03-03 15:06:43.362,Problem found: Very cloudy
+2015-03-03 15:06:55.503,No more problem
+2015-03-03 15:07:02.566,Problem found: Very cloudy
+2015-03-03 15:07:02.582,Problem found: Very cloudy
+2015-03-03 15:07:30.162,No more problem
+2015-03-03 15:07:32.178,Problem found: Very cloudy
+2015-03-03 15:07:32.194,Problem found: Very cloudy
+2015-03-03 15:07:36.757,No more problem
+2015-03-03 15:07:39.288,Problem found: Very cloudy
+2015-03-03 15:07:39.304,Problem found: Very cloudy
+2015-03-03 15:07:55.993,No more problem
+2015-03-03 15:07:56.508,Problem found: Very cloudy
+2015-03-03 15:07:56.524,Problem found: Very cloudy
+2015-03-03 15:09:05.170,No more problem
+2015-03-03 15:09:08.186,Problem found: Very cloudy
+2015-03-03 15:09:08.201,Problem found: Very cloudy
+2015-03-03 15:10:06.103,No more problem
+2015-03-03 15:10:09.119,Problem found: Very cloudy
+2015-03-03 15:10:09.135,Problem found: Very cloudy
+2015-03-03 15:11:28.360,No more problem
+2015-03-03 15:32:55.006,Problem found: Very cloudy
+2015-03-03 15:32:55.022,Problem found: Very cloudy
+2015-03-03 15:33:01.100,No more problem
+2015-03-03 15:33:15.695,Problem found: Very cloudy
+2015-03-03 15:33:15.711,Problem found: Very cloudy
+2015-03-03 15:33:21.789,No more problem
+2015-03-03 15:33:31.368,Problem found: Very cloudy
+2015-03-03 15:33:31.384,Problem found: Very cloudy
+2015-03-03 15:33:40.494,No more problem
+2015-03-03 15:33:49.010,Problem found: Very cloudy
+2015-03-03 15:33:49.026,Problem found: Very cloudy
+2015-03-03 15:33:53.589,No more problem
+2015-03-03 15:33:56.105,Problem found: Very cloudy
+2015-03-03 15:33:56.120,Problem found: Very cloudy
+2015-03-03 15:34:34.289,No more problem
+2015-03-03 15:34:44.805,Problem found: Very cloudy
+2015-03-03 15:34:44.821,Problem found: Very cloudy
+2015-03-03 15:34:58.509,No more problem
+2015-03-03 15:35:02.025,Problem found: Very cloudy
+2015-03-03 15:35:02.041,Problem found: Very cloudy
+2015-03-03 15:36:07.515,No more problem
+2015-03-03 15:36:10.031,Problem found: Very cloudy
+2015-03-03 15:36:10.046,Problem found: Very cloudy
+2015-03-03 15:36:22.188,No more problem
+2015-03-03 15:36:37.830,Problem found: Very cloudy
+2015-03-03 15:36:37.845,Problem found: Very cloudy
+2015-03-03 15:36:40.892,No more problem
+2015-03-03 15:47:04.033,Problem found: Very cloudy
+2015-03-03 15:47:04.049,Problem found: Very cloudy
+2015-03-03 15:50:29.418,No more problem
+2015-03-03 15:50:31.996,Problem found: Very cloudy
+2015-03-03 15:50:32.012,Problem found: Very cloudy
+2015-03-03 15:50:44.232,No more problem
+2015-03-03 15:50:47.747,Problem found: Very cloudy
+2015-03-03 15:50:47.763,Problem found: Very cloudy
+2015-03-03 15:52:35.975,No more problem
+2015-03-03 15:52:36.490,Problem found: Very cloudy
+2015-03-03 15:52:36.506,Problem found: Very cloudy
+2015-03-03 15:52:44.100,No more problem
+2015-03-03 16:09:01.669,Problem found: Very cloudy
+2015-03-03 16:09:01.684,Problem found: Very cloudy
+2015-03-03 16:09:06.247,No more problem
+2015-03-03 16:09:45.335,Problem found: Very cloudy
+2015-03-03 16:09:45.351,Problem found: Very cloudy
+2015-03-03 16:09:57.649,No more problem
+2015-03-03 16:09:59.164,Problem found: Very cloudy
+2015-03-03 16:09:59.180,Problem found: Very cloudy
+2015-03-03 16:10:03.743,No more problem
+2015-03-03 16:10:18.260,Problem found: Very cloudy
+2015-03-03 16:10:18.275,Problem found: Very cloudy
+2015-03-03 16:10:22.838,No more problem
+2015-03-03 16:10:26.854,Problem found: Very cloudy
+2015-03-03 16:10:26.870,Problem found: Very cloudy
+2015-03-03 16:10:43.824,No more problem
+2015-03-03 16:10:49.340,Problem found: Very cloudy
+2015-03-03 16:10:49.356,Problem found: Very cloudy
+2015-03-03 16:11:01.497,No more problem
+2015-03-03 16:11:07.013,Problem found: Very cloudy
+2015-03-03 16:11:07.029,Problem found: Very cloudy
+2015-03-03 16:11:11.592,No more problem
+2015-03-03 16:11:14.108,Problem found: Very cloudy
+2015-03-03 16:11:14.123,Problem found: Very cloudy
+2015-03-03 16:11:15.655,No more problem
+2015-03-03 16:11:19.171,Problem found: Very cloudy
+2015-03-03 16:11:19.186,Problem found: Very cloudy
+2015-03-03 16:11:23.749,No more problem
+2015-03-03 16:11:26.265,Problem found: Very cloudy
+2015-03-03 16:11:26.281,Problem found: Very cloudy
+2015-03-03 16:11:47.610,No more problem
+2015-03-03 16:11:52.251,Problem found: Very cloudy
+2015-03-03 16:11:52.267,Problem found: Very cloudy
+2015-03-03 16:13:17.289,No more problem
+2015-03-03 16:13:17.805,Problem found: Very cloudy
+2015-03-03 16:13:17.820,Problem found: Very cloudy
+2015-03-03 16:13:22.383,No more problem
+2015-03-03 16:13:24.899,Problem found: Very cloudy
+2015-03-03 16:13:24.915,Problem found: Very cloudy
+2015-03-03 16:16:36.952,No more problem
+2015-03-03 16:16:45.969,Problem found: Very cloudy
+2015-03-03 16:16:45.984,Problem found: Very cloudy
+2015-03-03 16:16:58.266,No more problem
+2015-03-03 16:17:01.282,Problem found: Very cloudy
+2015-03-03 16:17:01.298,Problem found: Very cloudy
+2015-03-03 16:17:22.643,No more problem
+2015-03-03 16:17:29.238,Problem found: Very cloudy
+2015-03-03 16:17:29.253,Problem found: Very cloudy
+2015-03-03 16:17:33.816,No more problem
+2015-03-03 16:17:41.832,Problem found: Very cloudy
+2015-03-03 16:17:41.848,Problem found: Very cloudy
+2015-03-03 16:17:44.895,No more problem
+2015-03-03 16:17:46.911,Problem found: Very cloudy
+2015-03-03 16:17:46.926,Problem found: Very cloudy
+2015-03-03 16:17:54.521,No more problem
+2015-03-03 16:18:21.695,Problem found: Very cloudy
+2015-03-03 16:18:21.710,Problem found: Very cloudy
+2015-03-03 16:18:27.789,No more problem
+2015-03-03 16:56:51.610,Problem found: Very cloudy
+2015-03-03 16:56:51.626,Problem found: Very cloudy
+2015-03-03 16:56:56.188,No more problem
+2015-03-03 16:57:00.704,Problem found: Very cloudy
+2015-03-03 16:57:00.720,Problem found: Very cloudy
+2015-03-03 16:57:05.283,No more problem
+2015-03-03 16:57:19.893,Problem found: Very cloudy
+2015-03-03 16:57:19.909,Problem found: Very cloudy
+2015-03-03 16:57:24.472,No more problem
+2015-03-03 16:57:43.989,Problem found: Very cloudy
+2015-03-03 16:57:44.005,Problem found: Very cloudy
+2015-03-03 16:57:50.083,No more problem
+2015-03-03 16:57:52.693,Problem found: Very cloudy
+2015-03-03 16:57:52.708,Problem found: Very cloudy
+2015-03-03 16:58:00.303,No more problem
+2015-03-03 16:58:04.819,Problem found: Very cloudy
+2015-03-03 16:58:04.834,Problem found: Very cloudy
+2015-03-03 16:58:17.085,No more problem
+2015-03-03 16:58:20.601,Problem found: Very cloudy
+2015-03-03 16:58:20.617,Problem found: Very cloudy
+2015-03-03 16:58:38.821,No more problem
+2015-03-03 16:58:41.853,Problem found: Very cloudy
+2015-03-03 16:58:41.869,Problem found: Very cloudy
+2015-03-03 17:00:08.773,No more problem
+2015-03-03 17:00:11.289,Problem found: Very cloudy
+2015-03-03 17:00:11.304,Problem found: Very cloudy
+2015-03-03 17:00:12.836,No more problem
+2015-03-03 17:00:16.352,Problem found: Very cloudy
+2015-03-03 17:00:16.367,Problem found: Very cloudy
+2015-03-03 17:00:28.509,No more problem
+2015-03-03 17:00:32.025,Problem found: Very cloudy
+2015-03-03 17:00:32.040,Problem found: Very cloudy
+2015-03-03 17:00:36.603,No more problem
+2015-03-03 17:00:40.650,Problem found: Very cloudy
+2015-03-03 17:00:40.666,Problem found: Very cloudy
+2015-03-03 17:01:05.074,No more problem
+2015-03-03 17:01:12.090,Problem found: Very cloudy
+2015-03-03 17:01:12.106,Problem found: Very cloudy
+2015-03-03 17:01:28.795,No more problem
+2015-03-03 17:01:32.889,Problem found: Very cloudy
+2015-03-03 17:01:32.904,Problem found: Very cloudy
+2015-03-03 17:01:46.562,No more problem
+2015-03-03 17:01:52.078,Problem found: Very cloudy
+2015-03-03 17:01:52.093,Problem found: Very cloudy
+2015-03-03 17:02:13.470,No more problem
+2015-03-03 17:15:11.523,DAY
+"2015-03-03 17:15:11.851,""Problem found: Meteo not available (last update at 2015-03-03T09:05:17) for 596 seconds, Meteo not available (last update at 2015-03-03T09:05:17) for 594 seconds, Gardian non initialized"""
+"2015-03-03 17:15:11.866,""Problem found: Meteo not available (last update at 2015-03-03T09:05:17) for 594 seconds, Gardian non initialized"""
+"2015-03-03 17:15:13.413,""Problem found: Meteo not available (last update at 2015-03-03T09:05:17) for 596 seconds, Gardian non initialized"""
+"2015-03-03 17:15:14.952,""Problem found: Gardian non initialized, Meteo not available (last update at 2015-03-03T09:05:17) for 597 seconds"""
+"2015-03-03 17:15:16.475,""Problem found: Meteo not available (last update at 2015-03-03T09:05:17) for 599 seconds, Gardian non initialized"""
+"2015-03-03 17:15:18.006,""Problem found: Meteo not available (last update at 2015-03-03T09:05:17) for 601 seconds, Telescope non initialized"""
+2015-03-03 17:15:19.538,Problem found: Telescope non initialized
+2015-03-03 17:18:20.225,No more problem
+2015-03-03 19:19:04.599,DUSK
+2015-03-03 19:49:40.927,Decide to OPEN
+2015-03-03 19:49:40.943,OPEN message sent successfully
+2015-03-03 19:49:41.615,Roof OPENING
+2015-03-03 19:49:43.615,Roof OPENING
+2015-03-03 19:49:44.115,Decide to OPEN
+2015-03-03 19:49:44.131,OPEN message sent successfully
+2015-03-03 19:49:44.787,Roof OPENING
+2015-03-03 19:51:42.116,Roof OPENING
+2015-03-03 20:05:38.990,NIGHT
+2015-03-04 04:55:43.979,DAWN
+2015-03-04 05:39:09.109,DAY
+2015-03-04 05:39:09.266,CLOSE message sent successfully
+2015-03-04 05:39:09.422,Starts to close the roof (currently Opened).
