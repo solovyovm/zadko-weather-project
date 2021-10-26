@@ -10,6 +10,7 @@
 
 import pandas as pd
 import datetime
+import os
 
 def make_prcp_interval(df):
     # can have at maximum double the number of rows, if every row has significant 10min precip
@@ -84,7 +85,7 @@ def process_files(n = 3):
     # loop through number of files
     for i in range( 1 , n+1 ):
 
-        s = "C:\\Users\\Matvey Solovyov\\OneDrive\\Documents\\UWA\\2021_S1\\GinginWx\\gingin-weather\gingin_aero"+str(i)+".csv"
+        s = os.path.join( os.getcwd(), "gingin_aero"+str(i)+".csv")
         
         # only read in the required columns, MSG included for confidence checks
         # LSD column is the local time, in datetime format
@@ -106,6 +107,6 @@ def main():
 
     metar_prcp = make_prcp_interval( metar_data )
 
-    metar_prcp.to_csv("C:\\Users\\Matvey Solovyov\\OneDrive\\Documents\\UWA\\2021_S1\\GinginWx\\gingin-weather\\gingin_metar_prcpINT.csv", index=False)
+    metar_prcp.to_csv(os.path.join( os.getcwd(), "gingin_metar_prcpINT.csv"), index=False)
 
     return True
